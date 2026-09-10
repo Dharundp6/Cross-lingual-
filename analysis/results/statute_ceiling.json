@@ -1,0 +1,21 @@
+{
+  "train": {
+    "n_queries": 1139,
+    "mean_gold_per_query": 4.090430201931519,
+    "court_share_of_gold": 0.012234385061171915,
+    "macro_f1_ceiling_statute_only": 0.9925495214565259,
+    "macro_f1_ceiling_statute_in_corpus": 0.759396027802239,
+    "queries_with_no_statute_gold": 5
+  },
+  "val": {
+    "n_queries": 10,
+    "mean_gold_per_query": 25.1,
+    "court_share_of_gold": 0.40637450199203184,
+    "macro_f1_ceiling_statute_only": 0.7721792525372428,
+    "macro_f1_ceiling_statute_in_corpus": 0.7721792525372428,
+    "queries_with_no_statute_gold": 0
+  },
+  "test": {
+    "note": "no gold column in the supplied file"
+  }
+}

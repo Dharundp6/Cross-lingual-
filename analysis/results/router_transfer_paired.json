@@ -1,0 +1,911 @@
+{
+  "design": "paired DE/EN, same queries, same model, same prompt, same budget",
+  "model": "deepseek-flash",
+  "n_sampled": 149,
+  "n_paired": 149,
+  "seed": 42,
+  "n_dropped_bad_translation": 1,
+  "de_accuracy": 0.7987,
+  "en_accuracy": 0.7987,
+  "delta_en_minus_de": 0.0,
+  "label_agreement": 0.9128,
+  "discordant_de_only_correct": 6,
+  "discordant_en_only_correct": 6,
+  "mcnemar_exact_p": 1.0,
+  "per_query": [
+    {
+      "query_id": "train_0778",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0134",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0034",
+      "gold": "Procedure & enforcement",
+      "de": "Procedure & enforcement",
+      "en": "Procedure & enforcement"
+    },
+    {
+      "query_id": "train_0907",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0345",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0298",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0270",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0169",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0901",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0124",
+      "gold": "Civil & commercial",
+      "de": "Public & administrative",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0825",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0905",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_1087",
+      "gold": "Civil & commercial",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0665",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0107",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0718",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0519",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0041",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0039",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0113",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0263",
+      "gold": "Other",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0281",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0619",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0732",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0036",
+      "gold": "Procedure & enforcement",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0684",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0241",
+      "gold": "Tax, social & financial",
+      "de": "Civil & commercial",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0875",
+      "gold": "Other",
+      "de": "Civil & commercial",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0791",
+      "gold": "Civil & commercial",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0857",
+      "gold": "Procedure & enforcement",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_1123",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0515",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0267",
+      "gold": "Civil & commercial",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0549",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0717",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0351",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0990",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_1058",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0008",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0928",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0985",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0195",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0853",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_1119",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0423",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_1099",
+      "gold": "Procedure & enforcement",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0191",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0260",
+      "gold": "Procedure & enforcement",
+      "de": "Procedure & enforcement",
+      "en": "Procedure & enforcement"
+    },
+    {
+      "query_id": "train_0932",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0418",
+      "gold": "Other",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_1130",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0112",
+      "gold": "Procedure & enforcement",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0472",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0117",
+      "gold": "Tax, social & financial",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0446",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_1035",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0427",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Procedure & enforcement"
+    },
+    {
+      "query_id": "train_0734",
+      "gold": "Other",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0331",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0987",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0053",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0891",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0563",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0656",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0151",
+      "gold": "Public & administrative",
+      "de": "Other",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0469",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0095",
+      "gold": "Other",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0674",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0368",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_1016",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0765",
+      "gold": "Other",
+      "de": "Civil & commercial",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0750",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_1050",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0449",
+      "gold": "Other",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0705",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0234",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0863",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0083",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0055",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0805",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0276",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0944",
+      "gold": "Other",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0364",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0096",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_1114",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0122",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_1080",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_1126",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0555",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0774",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_1021",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0453",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0198",
+      "gold": "Procedure & enforcement",
+      "de": "Procedure & enforcement",
+      "en": "Procedure & enforcement"
+    },
+    {
+      "query_id": "train_0460",
+      "gold": "Other",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0442",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0253",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0818",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0336",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_1105",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0836",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0789",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0087",
+      "gold": "Other",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0739",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_1037",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0210",
+      "gold": "Public & administrative",
+      "de": "Other",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0652",
+      "gold": "Civil & commercial",
+      "de": "Other",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0890",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_1134",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0199",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0566",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0470",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0779",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0841",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0679",
+      "gold": "Public & administrative",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0266",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0838",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0404",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0939",
+      "gold": "Other",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0947",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0066",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0277",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_1118",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0984",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0394",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0494",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0338",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0079",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0255",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0691",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0877",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0393",
+      "gold": "Other",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0256",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0798",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0611",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0489",
+      "gold": "Public & administrative",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0782",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0561",
+      "gold": "Criminal",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0174",
+      "gold": "Public & administrative",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0332",
+      "gold": "Tax, social & financial",
+      "de": "Other",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_1132",
+      "gold": "Criminal",
+      "de": "Criminal",
+      "en": "Criminal"
+    },
+    {
+      "query_id": "train_0300",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0910",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Procedure & enforcement"
+    },
+    {
+      "query_id": "train_1109",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0658",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0330",
+      "gold": "Tax, social & financial",
+      "de": "Tax, social & financial",
+      "en": "Tax, social & financial"
+    },
+    {
+      "query_id": "train_0913",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Other"
+    },
+    {
+      "query_id": "train_0712",
+      "gold": "Other",
+      "de": "Public & administrative",
+      "en": "Public & administrative"
+    },
+    {
+      "query_id": "train_0526",
+      "gold": "Civil & commercial",
+      "de": "Civil & commercial",
+      "en": "Civil & commercial"
+    },
+    {
+      "query_id": "train_0711",
+      "gold": "Other",
+      "de": "Other",
+      "en": "Other"
+    }
+  ]
+}

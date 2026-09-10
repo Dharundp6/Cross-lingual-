@@ -1,0 +1,148 @@
+{
+  "lang": "de",
+  "n_queries": 993,
+  "mechanisms": [
+    {
+      "mechanism": "explicit1",
+      "queries_fired_on": 168,
+      "additions": 1080,
+      "additions_correct": 241,
+      "observed_precision": 0.22314814814814815,
+      "mean_bar_pi_star": 0.0005952380952380952,
+      "clears_bar": true,
+      "macro_f1_before": 0.0005103909182459031,
+      "macro_f1_after": 0.04480355566424715,
+      "macro_f1_change": 0.04429316474600125
+    },
+    {
+      "mechanism": "family",
+      "queries_fired_on": 0,
+      "additions": 0,
+      "additions_correct": 0,
+      "observed_precision": NaN,
+      "mean_bar_pi_star": NaN,
+      "clears_bar": null,
+      "macro_f1_before": 0.04480355566424715,
+      "macro_f1_after": 0.04480355566424715,
+      "macro_f1_change": 0.0
+    },
+    {
+      "mechanism": "stpo",
+      "queries_fired_on": 0,
+      "additions": 0,
+      "additions_correct": 0,
+      "observed_precision": NaN,
+      "mean_bar_pi_star": NaN,
+      "clears_bar": null,
+      "macro_f1_before": 0.04480355566424715,
+      "macro_f1_after": 0.04480355566424715,
+      "macro_f1_change": 0.0
+    },
+    {
+      "mechanism": "domain2",
+      "queries_fired_on": 5,
+      "additions": 17,
+      "additions_correct": 1,
+      "observed_precision": 0.058823529411764705,
+      "mean_bar_pi_star": 0.09047619047619049,
+      "clears_bar": false,
+      "macro_f1_before": 0.04480355566424715,
+      "macro_f1_after": 0.04474281300531719,
+      "macro_f1_change": -6.0742658929961724e-05
+    },
+    {
+      "mechanism": "pil",
+      "queries_fired_on": 0,
+      "additions": 0,
+      "additions_correct": 0,
+      "observed_precision": NaN,
+      "mean_bar_pi_star": NaN,
+      "clears_bar": null,
+      "macro_f1_before": 0.04474281300531719,
+      "macro_f1_after": 0.04474281300531719,
+      "macro_f1_change": 0.0
+    },
+    {
+      "mechanism": "domain3",
+      "queries_fired_on": 0,
+      "additions": 0,
+      "additions_correct": 0,
+      "observed_precision": NaN,
+      "mean_bar_pi_star": NaN,
+      "clears_bar": null,
+      "macro_f1_before": 0.04474281300531719,
+      "macro_f1_after": 0.04474281300531719,
+      "macro_f1_change": 0.0
+    },
+    {
+      "mechanism": "explicit2",
+      "queries_fired_on": 0,
+      "additions": 0,
+      "additions_correct": 0,
+      "observed_precision": NaN,
+      "mean_bar_pi_star": NaN,
+      "clears_bar": null,
+      "macro_f1_before": 0.04474281300531719,
+      "macro_f1_after": 0.04474281300531719,
+      "macro_f1_change": 0.0
+    },
+    {
+      "mechanism": "lawname",
+      "queries_fired_on": 0,
+      "additions": 0,
+      "additions_correct": 0,
+      "observed_precision": NaN,
+      "mean_bar_pi_star": NaN,
+      "clears_bar": null,
+      "macro_f1_before": 0.04474281300531719,
+      "macro_f1_after": 0.04474281300531719,
+      "macro_f1_change": 0.0
+    },
+    {
+      "mechanism": "anchored co-citation expansion",
+      "queries_fired_on": 152,
+      "additions": 1048,
+      "additions_correct": 27,
+      "observed_precision": 0.025763358778625955,
+      "mean_bar_pi_star": 0.13004574422227924,
+      "clears_bar": false,
+      "macro_f1_before": 0.04474281300531719,
+      "macro_f1_after": 0.031064717883176034,
+      "macro_f1_change": -0.013678095122141156
+    },
+    {
+      "mechanism": "fixed procedural citation",
+      "queries_fired_on": 993,
+      "additions": 993,
+      "additions_correct": 3,
+      "observed_precision": 0.0030211480362537764,
+      "mean_bar_pi_star": 0.017061905553842998,
+      "clears_bar": false,
+      "macro_f1_before": 0.034123811107685996,
+      "macro_f1_after": 0.031064717883176034,
+      "macro_f1_change": -0.0030590932245099615
+    }
+  ],
+  "bar_by_required_set_size": {
+    "1-2": {
+      "n_queries": 567,
+      "mean_f1": 0.024270296049007534,
+      "mean_bar_pi_star": 0.012135148024503767
+    },
+    "3-5": {
+      "n_queries": 269,
+      "mean_f1": 0.03841252972413796,
+      "mean_bar_pi_star": 0.01920626486206898
+    },
+    "6-10": {
+      "n_queries": 116,
+      "mean_f1": 0.05116378790958542,
+      "mean_bar_pi_star": 0.02558189395479271
+    },
+    "11+": {
+      "n_queries": 41,
+      "mean_f1": 0.01995212450979297,
+      "mean_bar_pi_star": 0.009976062254896485
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "n_queries": 993,
+  "queries_naming_an_article": 172,
+  "share_naming_an_article": 0.1732,
+  "queries_where_the_topN_cut_binds": 135,
+  "share_where_the_prior_could_change_the_answer": 0.136,
+  "queries_emitting_only_the_fixed_procedural_citation": 823,
+  "gate": 3,
+  "n_neighbours": 5
+}

@@ -1,0 +1,49 @@
+{
+  "lang": "de",
+  "n_queries": 993,
+  "n_anchored": 172,
+  "rows": [
+    {
+      "configuration": "anchored expansion (as shipped)",
+      "macro_f1_all": 0.03104898019524241,
+      "macro_f1_anchored_subset": 0.17746987879103215,
+      "mean_picks_per_query": 3.163141993957704,
+      "mean_added_by_expansion": 1.05840886203424
+    },
+    {
+      "configuration": "without the explicit anchor",
+      "macro_f1_all": 0.03084933060777282,
+      "macro_f1_anchored_subset": 0.17631725064941994,
+      "mean_picks_per_query": 3.19436052366566,
+      "mean_added_by_expansion": 1.0896273917421957
+    },
+    {
+      "configuration": "without the five-neighbour cap",
+      "macro_f1_all": 0.018642347858269733,
+      "macro_f1_anchored_subset": 0.1058432165200213,
+      "mean_picks_per_query": 12.20443101711984,
+      "mean_added_by_expansion": 10.099697885196376
+    },
+    {
+      "configuration": "without the weight threshold",
+      "macro_f1_all": 0.02899448566470716,
+      "macro_f1_anchored_subset": 0.16560875629788388,
+      "mean_picks_per_query": 3.336354481369587,
+      "mean_added_by_expansion": 1.2316213494461228
+    },
+    {
+      "configuration": "without the long-decision filter",
+      "macro_f1_all": 0.03104898019524241,
+      "macro_f1_anchored_subset": 0.17746987879103215,
+      "mean_picks_per_query": 3.163141993957704,
+      "mean_added_by_expansion": 1.05840886203424
+    },
+    {
+      "configuration": "no expansion at all",
+      "macro_f1_all": 0.04474281300531719,
+      "macro_f1_anchored_subset": 0.2565278786771034,
+      "mean_picks_per_query": 2.104733131923464,
+      "mean_added_by_expansion": 0.0
+    }
+  ]
+}

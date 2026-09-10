@@ -1,0 +1,960 @@
+query_id,gold_domain,pred_deepseek
+train_0001,Other,Public & administrative
+train_0002,Civil & commercial,Civil & commercial
+train_0004,Civil & commercial,Civil & commercial
+train_0005,Procedure & enforcement,Public & administrative
+train_0006,Criminal,Criminal
+train_0007,Civil & commercial,Civil & commercial
+train_0008,"Tax, social & financial","Tax, social & financial"
+train_0009,Civil & commercial,Civil & commercial
+train_0010,Criminal,Criminal
+train_0011,Criminal,Criminal
+train_0012,Other,Criminal
+train_0013,Public & administrative,Civil & commercial
+train_0015,Public & administrative,Other
+train_0017,"Tax, social & financial","Tax, social & financial"
+train_0018,Procedure & enforcement,Other
+train_0019,Civil & commercial,Civil & commercial
+train_0020,Other,Other
+train_0021,"Tax, social & financial","Tax, social & financial"
+train_0023,Criminal,Criminal
+train_0026,Public & administrative,Civil & commercial
+train_0027,Other,Other
+train_0029,Civil & commercial,Civil & commercial
+train_0031,Civil & commercial,Civil & commercial
+train_0032,Civil & commercial,Civil & commercial
+train_0033,Other,Other
+train_0034,Procedure & enforcement,Procedure & enforcement
+train_0035,Civil & commercial,Civil & commercial
+train_0036,Procedure & enforcement,Civil & commercial
+train_0037,Civil & commercial,Civil & commercial
+train_0038,Civil & commercial,Civil & commercial
+train_0039,Civil & commercial,Civil & commercial
+train_0040,Public & administrative,Public & administrative
+train_0041,"Tax, social & financial","Tax, social & financial"
+train_0042,Criminal,Criminal
+train_0043,Other,"Tax, social & financial"
+train_0044,"Tax, social & financial",Civil & commercial
+train_0045,Civil & commercial,Civil & commercial
+train_0046,"Tax, social & financial","Tax, social & financial"
+train_0047,Civil & commercial,Civil & commercial
+train_0048,Civil & commercial,Civil & commercial
+train_0049,Other,Other
+train_0050,Public & administrative,Public & administrative
+train_0051,Public & administrative,Civil & commercial
+train_0052,Procedure & enforcement,Civil & commercial
+train_0053,Public & administrative,Public & administrative
+train_0054,Other,Other
+train_0055,Civil & commercial,Civil & commercial
+train_0056,Civil & commercial,Civil & commercial
+train_0057,Other,Criminal
+train_0058,Criminal,Criminal
+train_0059,"Tax, social & financial","Tax, social & financial"
+train_0060,Civil & commercial,Civil & commercial
+train_0061,Other,Public & administrative
+train_0062,"Tax, social & financial","Tax, social & financial"
+train_0063,Other,Other
+train_0064,Public & administrative,Public & administrative
+train_0065,Public & administrative,Public & administrative
+train_0066,Civil & commercial,Civil & commercial
+train_0068,Civil & commercial,Civil & commercial
+train_0070,Civil & commercial,Civil & commercial
+train_0071,Other,Other
+train_0072,"Tax, social & financial","Tax, social & financial"
+train_0073,Public & administrative,Other
+train_0074,Civil & commercial,Civil & commercial
+train_0075,Civil & commercial,Civil & commercial
+train_0077,Civil & commercial,Civil & commercial
+train_0078,Public & administrative,Other
+train_0079,Public & administrative,Public & administrative
+train_0080,Civil & commercial,Civil & commercial
+train_0081,Procedure & enforcement,Public & administrative
+train_0082,Procedure & enforcement,Public & administrative
+train_0083,Public & administrative,Public & administrative
+train_0084,Other,Public & administrative
+train_0087,Other,Public & administrative
+train_0088,"Tax, social & financial","Tax, social & financial"
+train_0089,Other,Other
+train_0091,Public & administrative,Public & administrative
+train_0092,Civil & commercial,Civil & commercial
+train_0093,Civil & commercial,Civil & commercial
+train_0094,Public & administrative,Public & administrative
+train_0095,Other,"Tax, social & financial"
+train_0096,Civil & commercial,Civil & commercial
+train_0099,Other,"Tax, social & financial"
+train_0100,Other,Other
+train_0101,Civil & commercial,Civil & commercial
+train_0103,Civil & commercial,Civil & commercial
+train_0104,Public & administrative,Other
+train_0105,Civil & commercial,Civil & commercial
+train_0106,Civil & commercial,Civil & commercial
+train_0107,Other,Other
+train_0108,"Tax, social & financial","Tax, social & financial"
+train_0109,"Tax, social & financial",Other
+train_0110,Public & administrative,Public & administrative
+train_0111,Public & administrative,Public & administrative
+train_0112,Procedure & enforcement,Public & administrative
+train_0113,Other,Civil & commercial
+train_0114,Other,"Tax, social & financial"
+train_0115,Civil & commercial,Civil & commercial
+train_0116,Criminal,Criminal
+train_0117,"Tax, social & financial",Other
+train_0119,Other,Other
+train_0120,Other,Other
+train_0121,Public & administrative,Public & administrative
+train_0122,Other,Other
+train_0124,Civil & commercial,Public & administrative
+train_0125,Other,Other
+train_0126,Civil & commercial,Civil & commercial
+train_0127,Other,Public & administrative
+train_0128,Public & administrative,Public & administrative
+train_0129,Public & administrative,Public & administrative
+train_0130,Criminal,Criminal
+train_0131,"Tax, social & financial","Tax, social & financial"
+train_0132,Civil & commercial,"Tax, social & financial"
+train_0133,Public & administrative,Public & administrative
+train_0134,Civil & commercial,Civil & commercial
+train_0135,Public & administrative,Public & administrative
+train_0136,Public & administrative,Public & administrative
+train_0137,Civil & commercial,Civil & commercial
+train_0138,Public & administrative,Public & administrative
+train_0139,Civil & commercial,Civil & commercial
+train_0140,Criminal,Criminal
+train_0141,Procedure & enforcement,Other
+train_0142,Public & administrative,Public & administrative
+train_0143,Public & administrative,Public & administrative
+train_0144,Criminal,Criminal
+train_0147,"Tax, social & financial","Tax, social & financial"
+train_0148,Public & administrative,Other
+train_0151,Public & administrative,Other
+train_0152,Public & administrative,Civil & commercial
+train_0153,Public & administrative,Public & administrative
+train_0154,Civil & commercial,Civil & commercial
+train_0155,Civil & commercial,Civil & commercial
+train_0156,Other,Other
+train_0158,Public & administrative,Public & administrative
+train_0159,Public & administrative,Public & administrative
+train_0160,Public & administrative,Civil & commercial
+train_0161,Civil & commercial,Civil & commercial
+train_0163,Other,Other
+train_0164,Other,Other
+train_0165,Civil & commercial,Civil & commercial
+train_0166,Other,Public & administrative
+train_0167,Criminal,Criminal
+train_0169,Civil & commercial,Civil & commercial
+train_0170,Civil & commercial,Civil & commercial
+train_0171,Other,Other
+train_0173,Civil & commercial,Civil & commercial
+train_0174,Public & administrative,Civil & commercial
+train_0175,Public & administrative,Other
+train_0176,"Tax, social & financial","Tax, social & financial"
+train_0178,Criminal,Criminal
+train_0179,Public & administrative,Public & administrative
+train_0180,Civil & commercial,Procedure & enforcement
+train_0181,Other,Other
+train_0182,Public & administrative,Public & administrative
+train_0183,Other,Other
+train_0185,Civil & commercial,"Tax, social & financial"
+train_0187,Public & administrative,Public & administrative
+train_0189,Civil & commercial,Civil & commercial
+train_0190,Criminal,Criminal
+train_0191,Civil & commercial,Civil & commercial
+train_0192,Other,Other
+train_0193,Other,Civil & commercial
+train_0194,Civil & commercial,Civil & commercial
+train_0195,"Tax, social & financial","Tax, social & financial"
+train_0196,"Tax, social & financial","Tax, social & financial"
+train_0197,Criminal,Criminal
+train_0198,Procedure & enforcement,Public & administrative
+train_0199,"Tax, social & financial","Tax, social & financial"
+train_0200,Other,Other
+train_0201,Public & administrative,Public & administrative
+train_0202,Civil & commercial,Civil & commercial
+train_0203,"Tax, social & financial","Tax, social & financial"
+train_0205,Civil & commercial,Civil & commercial
+train_0206,Public & administrative,Public & administrative
+train_0208,Criminal,Other
+train_0210,Public & administrative,Other
+train_0211,Other,Criminal
+train_0212,Criminal,Criminal
+train_0213,Criminal,Criminal
+train_0214,"Tax, social & financial","Tax, social & financial"
+train_0215,Civil & commercial,Civil & commercial
+train_0216,Civil & commercial,Civil & commercial
+train_0218,"Tax, social & financial","Tax, social & financial"
+train_0219,Civil & commercial,Civil & commercial
+train_0220,Public & administrative,Criminal
+train_0221,Other,Other
+train_0222,Other,Other
+train_0223,Civil & commercial,Civil & commercial
+train_0225,Public & administrative,Public & administrative
+train_0226,Other,Criminal
+train_0227,Civil & commercial,Civil & commercial
+train_0229,Civil & commercial,Civil & commercial
+train_0230,Civil & commercial,Civil & commercial
+train_0231,Civil & commercial,Civil & commercial
+train_0232,Civil & commercial,Civil & commercial
+train_0233,Criminal,Criminal
+train_0234,Civil & commercial,Civil & commercial
+train_0235,Civil & commercial,Civil & commercial
+train_0236,Civil & commercial,Civil & commercial
+train_0237,Civil & commercial,Civil & commercial
+train_0238,Civil & commercial,Civil & commercial
+train_0239,Other,Other
+train_0240,"Tax, social & financial","Tax, social & financial"
+train_0241,"Tax, social & financial",Civil & commercial
+train_0242,Criminal,Criminal
+train_0244,Public & administrative,Public & administrative
+train_0245,Public & administrative,Other
+train_0246,Civil & commercial,Civil & commercial
+train_0247,Civil & commercial,Civil & commercial
+train_0248,"Tax, social & financial","Tax, social & financial"
+train_0249,Civil & commercial,Civil & commercial
+train_0250,Other,Public & administrative
+train_0251,Civil & commercial,Criminal
+train_0252,Civil & commercial,Civil & commercial
+train_0253,Civil & commercial,Civil & commercial
+train_0254,Other,Other
+train_0255,Criminal,Criminal
+train_0256,Civil & commercial,Civil & commercial
+train_0257,Civil & commercial,Civil & commercial
+train_0259,Civil & commercial,Civil & commercial
+train_0260,Procedure & enforcement,Civil & commercial
+train_0261,Criminal,Criminal
+train_0262,Public & administrative,Public & administrative
+train_0263,Other,Criminal
+train_0266,Civil & commercial,Civil & commercial
+train_0267,Civil & commercial,Criminal
+train_0268,Criminal,Criminal
+train_0269,"Tax, social & financial","Tax, social & financial"
+train_0270,Criminal,Criminal
+train_0271,Other,Procedure & enforcement
+train_0272,Other,Public & administrative
+train_0274,"Tax, social & financial","Tax, social & financial"
+train_0275,Civil & commercial,Civil & commercial
+train_0276,Other,Other
+train_0277,Other,Other
+train_0278,Public & administrative,Public & administrative
+train_0279,Public & administrative,Public & administrative
+train_0280,Procedure & enforcement,Procedure & enforcement
+train_0281,Civil & commercial,Civil & commercial
+train_0282,Civil & commercial,Civil & commercial
+train_0284,Public & administrative,Other
+train_0286,Civil & commercial,Civil & commercial
+train_0287,Civil & commercial,Civil & commercial
+train_0288,Criminal,Criminal
+train_0289,Public & administrative,Public & administrative
+train_0290,Civil & commercial,"Tax, social & financial"
+train_0292,Other,Other
+train_0293,Other,Other
+train_0295,Civil & commercial,Civil & commercial
+train_0297,"Tax, social & financial","Tax, social & financial"
+train_0298,Civil & commercial,Civil & commercial
+train_0299,"Tax, social & financial","Tax, social & financial"
+train_0300,Civil & commercial,Civil & commercial
+train_0301,Civil & commercial,Civil & commercial
+train_0304,Other,Other
+train_0309,Other,Other
+train_0312,Civil & commercial,Civil & commercial
+train_0313,Civil & commercial,Civil & commercial
+train_0314,Other,Other
+train_0315,Civil & commercial,Civil & commercial
+train_0317,Criminal,Criminal
+train_0319,Civil & commercial,Other
+train_0320,Civil & commercial,Civil & commercial
+train_0322,Criminal,Criminal
+train_0324,Public & administrative,Public & administrative
+train_0325,Criminal,Criminal
+train_0326,Civil & commercial,Civil & commercial
+train_0328,Criminal,Criminal
+train_0329,Civil & commercial,Civil & commercial
+train_0330,"Tax, social & financial",Civil & commercial
+train_0331,Civil & commercial,Civil & commercial
+train_0332,"Tax, social & financial",Other
+train_0335,"Tax, social & financial",Other
+train_0336,"Tax, social & financial","Tax, social & financial"
+train_0338,Other,Other
+train_0339,Civil & commercial,Civil & commercial
+train_0340,Civil & commercial,Civil & commercial
+train_0341,Other,Other
+train_0342,Other,"Tax, social & financial"
+train_0343,Criminal,Criminal
+train_0344,Other,Public & administrative
+train_0345,Public & administrative,Criminal
+train_0347,Criminal,Criminal
+train_0349,Procedure & enforcement,Procedure & enforcement
+train_0351,Criminal,Criminal
+train_0352,Civil & commercial,Civil & commercial
+train_0353,"Tax, social & financial","Tax, social & financial"
+train_0354,Civil & commercial,Civil & commercial
+train_0355,Other,Other
+train_0356,Civil & commercial,Civil & commercial
+train_0357,Other,Criminal
+train_0358,Public & administrative,Other
+train_0359,Civil & commercial,Civil & commercial
+train_0360,Public & administrative,Criminal
+train_0362,Public & administrative,Public & administrative
+train_0363,Other,"Tax, social & financial"
+train_0364,Civil & commercial,Civil & commercial
+train_0365,Other,Criminal
+train_0366,Civil & commercial,Civil & commercial
+train_0367,Civil & commercial,Civil & commercial
+train_0368,Civil & commercial,Civil & commercial
+train_0369,Public & administrative,Public & administrative
+train_0371,Public & administrative,Criminal
+train_0373,Civil & commercial,Civil & commercial
+train_0374,"Tax, social & financial","Tax, social & financial"
+train_0375,Procedure & enforcement,Procedure & enforcement
+train_0376,Other,"Tax, social & financial"
+train_0377,Other,Other
+train_0378,Public & administrative,Civil & commercial
+train_0379,Other,Civil & commercial
+train_0380,Public & administrative,Other
+train_0381,"Tax, social & financial","Tax, social & financial"
+train_0382,Criminal,Criminal
+train_0383,Civil & commercial,Civil & commercial
+train_0384,Civil & commercial,Civil & commercial
+train_0385,Civil & commercial,Civil & commercial
+train_0387,Civil & commercial,Civil & commercial
+train_0388,"Tax, social & financial","Tax, social & financial"
+train_0389,Civil & commercial,Civil & commercial
+train_0390,"Tax, social & financial","Tax, social & financial"
+train_0391,Civil & commercial,Civil & commercial
+train_0392,Other,"Tax, social & financial"
+train_0393,Other,Public & administrative
+train_0394,Other,Other
+train_0395,Civil & commercial,Civil & commercial
+train_0396,Other,Other
+train_0397,Criminal,Criminal
+train_0398,Public & administrative,Public & administrative
+train_0399,Procedure & enforcement,Civil & commercial
+train_0401,Civil & commercial,Civil & commercial
+train_0402,Public & administrative,Public & administrative
+train_0403,Civil & commercial,Civil & commercial
+train_0404,Criminal,Criminal
+train_0405,Procedure & enforcement,Procedure & enforcement
+train_0407,Civil & commercial,Civil & commercial
+train_0408,"Tax, social & financial","Tax, social & financial"
+train_0409,"Tax, social & financial","Tax, social & financial"
+train_0410,Other,Other
+train_0411,"Tax, social & financial","Tax, social & financial"
+train_0412,Other,Other
+train_0414,Public & administrative,Public & administrative
+train_0415,Other,Other
+train_0416,Civil & commercial,Civil & commercial
+train_0417,Civil & commercial,Civil & commercial
+train_0418,Other,Public & administrative
+train_0420,Public & administrative,Civil & commercial
+train_0421,Other,"Tax, social & financial"
+train_0422,Criminal,Criminal
+train_0423,Civil & commercial,Civil & commercial
+train_0424,Civil & commercial,Civil & commercial
+train_0425,Civil & commercial,Civil & commercial
+train_0426,Public & administrative,Criminal
+train_0427,Civil & commercial,Civil & commercial
+train_0429,Public & administrative,Public & administrative
+train_0430,"Tax, social & financial","Tax, social & financial"
+train_0432,Public & administrative,Other
+train_0433,Other,Other
+train_0434,Public & administrative,Criminal
+train_0435,Other,Other
+train_0436,"Tax, social & financial","Tax, social & financial"
+train_0439,Civil & commercial,Civil & commercial
+train_0440,Other,Other
+train_0441,Criminal,Criminal
+train_0442,Other,Other
+train_0443,Other,Other
+train_0444,Civil & commercial,Civil & commercial
+train_0445,Criminal,Criminal
+train_0446,Criminal,Criminal
+train_0447,Public & administrative,Public & administrative
+train_0448,Criminal,Criminal
+train_0449,Other,Other
+train_0450,Public & administrative,Public & administrative
+train_0451,Other,"Tax, social & financial"
+train_0453,Public & administrative,Other
+train_0454,"Tax, social & financial","Tax, social & financial"
+train_0455,Criminal,Criminal
+train_0456,Civil & commercial,Procedure & enforcement
+train_0457,Criminal,Criminal
+train_0459,"Tax, social & financial","Tax, social & financial"
+train_0460,Other,Civil & commercial
+train_0461,Civil & commercial,Civil & commercial
+train_0462,Procedure & enforcement,Civil & commercial
+train_0463,Other,Other
+train_0464,Civil & commercial,Civil & commercial
+train_0465,Civil & commercial,Civil & commercial
+train_0466,Other,Civil & commercial
+train_0467,"Tax, social & financial","Tax, social & financial"
+train_0469,Criminal,Criminal
+train_0470,Criminal,Criminal
+train_0472,Civil & commercial,Civil & commercial
+train_0473,Civil & commercial,Civil & commercial
+train_0474,Criminal,Criminal
+train_0475,Procedure & enforcement,Public & administrative
+train_0476,"Tax, social & financial","Tax, social & financial"
+train_0477,"Tax, social & financial","Tax, social & financial"
+train_0478,"Tax, social & financial","Tax, social & financial"
+train_0479,Criminal,Criminal
+train_0480,Procedure & enforcement,Civil & commercial
+train_0481,Civil & commercial,Civil & commercial
+train_0483,Other,Other
+train_0484,Public & administrative,Other
+train_0485,Civil & commercial,Civil & commercial
+train_0486,Public & administrative,Public & administrative
+train_0487,Criminal,Criminal
+train_0488,Other,Criminal
+train_0489,Public & administrative,Public & administrative
+train_0490,Other,Civil & commercial
+train_0491,Public & administrative,"Tax, social & financial"
+train_0492,Other,Other
+train_0493,Public & administrative,Public & administrative
+train_0494,"Tax, social & financial","Tax, social & financial"
+train_0495,Civil & commercial,Civil & commercial
+train_0496,Civil & commercial,Civil & commercial
+train_0497,Civil & commercial,Civil & commercial
+train_0498,Public & administrative,Civil & commercial
+train_0499,Other,Other
+train_0500,Civil & commercial,Civil & commercial
+train_0501,Civil & commercial,Civil & commercial
+train_0502,Civil & commercial,Civil & commercial
+train_0503,Other,Other
+train_0504,Civil & commercial,Civil & commercial
+train_0505,Criminal,Criminal
+train_0507,Civil & commercial,Civil & commercial
+train_0508,Other,Other
+train_0509,Public & administrative,Public & administrative
+train_0510,Procedure & enforcement,Procedure & enforcement
+train_0511,Civil & commercial,Civil & commercial
+train_0512,Other,Other
+train_0514,Other,Other
+train_0515,Public & administrative,Public & administrative
+train_0516,Other,Other
+train_0517,Civil & commercial,Civil & commercial
+train_0519,Other,Other
+train_0520,Other,"Tax, social & financial"
+train_0521,Civil & commercial,Civil & commercial
+train_0522,Criminal,Criminal
+train_0524,Criminal,Criminal
+train_0525,Civil & commercial,Civil & commercial
+train_0526,Civil & commercial,Civil & commercial
+train_0527,"Tax, social & financial","Tax, social & financial"
+train_0528,Civil & commercial,Civil & commercial
+train_0529,Procedure & enforcement,Civil & commercial
+train_0532,Civil & commercial,Civil & commercial
+train_0533,"Tax, social & financial","Tax, social & financial"
+train_0534,Public & administrative,Other
+train_0535,Civil & commercial,Civil & commercial
+train_0536,"Tax, social & financial",Civil & commercial
+train_0537,Civil & commercial,Civil & commercial
+train_0538,Other,"Tax, social & financial"
+train_0539,Other,Other
+train_0540,Criminal,Criminal
+train_0541,Criminal,Criminal
+train_0542,Public & administrative,Public & administrative
+train_0543,Civil & commercial,Other
+train_0544,Civil & commercial,Civil & commercial
+train_0545,Other,Other
+train_0546,Other,Public & administrative
+train_0547,Civil & commercial,Civil & commercial
+train_0548,Public & administrative,Public & administrative
+train_0549,Criminal,Criminal
+train_0550,Other,Other
+train_0552,Other,Other
+train_0553,Criminal,Criminal
+train_0554,Other,Other
+train_0555,Civil & commercial,Civil & commercial
+train_0556,Other,Criminal
+train_0557,Civil & commercial,Civil & commercial
+train_0559,Criminal,Criminal
+train_0560,Civil & commercial,Civil & commercial
+train_0561,Criminal,Other
+train_0563,Public & administrative,Public & administrative
+train_0564,Public & administrative,Public & administrative
+train_0565,Criminal,Criminal
+train_0566,Criminal,Criminal
+train_0567,Other,Other
+train_0569,"Tax, social & financial","Tax, social & financial"
+train_0570,Civil & commercial,Civil & commercial
+train_0571,Other,"Tax, social & financial"
+train_0572,Civil & commercial,Civil & commercial
+train_0573,"Tax, social & financial","Tax, social & financial"
+train_0574,Criminal,Criminal
+train_0576,Civil & commercial,Civil & commercial
+train_0577,Civil & commercial,Civil & commercial
+train_0578,"Tax, social & financial","Tax, social & financial"
+train_0579,Other,Public & administrative
+train_0580,Civil & commercial,Civil & commercial
+train_0581,Civil & commercial,Civil & commercial
+train_0582,Civil & commercial,Civil & commercial
+train_0583,Other,Public & administrative
+train_0584,Other,Criminal
+train_0587,"Tax, social & financial","Tax, social & financial"
+train_0588,Public & administrative,Public & administrative
+train_0589,Other,Other
+train_0590,Public & administrative,Public & administrative
+train_0592,Other,Civil & commercial
+train_0593,Public & administrative,Procedure & enforcement
+train_0594,Civil & commercial,Civil & commercial
+train_0595,Civil & commercial,Civil & commercial
+train_0596,Other,Other
+train_0597,Other,Criminal
+train_0598,Public & administrative,Criminal
+train_0599,Civil & commercial,Civil & commercial
+train_0600,Civil & commercial,Civil & commercial
+train_0602,Other,Public & administrative
+train_0603,Public & administrative,Public & administrative
+train_0604,"Tax, social & financial","Tax, social & financial"
+train_0606,"Tax, social & financial","Tax, social & financial"
+train_0607,Civil & commercial,Civil & commercial
+train_0608,"Tax, social & financial","Tax, social & financial"
+train_0609,Civil & commercial,Civil & commercial
+train_0610,Other,Other
+train_0611,Civil & commercial,Civil & commercial
+train_0612,Other,Other
+train_0614,Other,Other
+train_0615,Public & administrative,Criminal
+train_0617,Other,Public & administrative
+train_0618,Public & administrative,Other
+train_0619,Civil & commercial,Civil & commercial
+train_0620,Criminal,Criminal
+train_0621,Civil & commercial,Civil & commercial
+train_0623,Civil & commercial,Civil & commercial
+train_0625,Public & administrative,Public & administrative
+train_0626,Civil & commercial,Civil & commercial
+train_0627,Criminal,Criminal
+train_0628,"Tax, social & financial","Tax, social & financial"
+train_0630,Public & administrative,Other
+train_0631,Civil & commercial,Civil & commercial
+train_0633,Civil & commercial,Civil & commercial
+train_0634,Other,Other
+train_0635,Civil & commercial,Civil & commercial
+train_0636,Civil & commercial,Civil & commercial
+train_0637,Public & administrative,Public & administrative
+train_0638,"Tax, social & financial","Tax, social & financial"
+train_0639,Procedure & enforcement,Procedure & enforcement
+train_0640,Other,"Tax, social & financial"
+train_0641,Public & administrative,Public & administrative
+train_0642,Criminal,Criminal
+train_0643,Procedure & enforcement,Civil & commercial
+train_0644,Criminal,Criminal
+train_0645,Civil & commercial,Civil & commercial
+train_0646,Public & administrative,Public & administrative
+train_0647,"Tax, social & financial","Tax, social & financial"
+train_0648,Public & administrative,Other
+train_0649,Civil & commercial,Civil & commercial
+train_0650,Civil & commercial,Civil & commercial
+train_0651,"Tax, social & financial","Tax, social & financial"
+train_0652,Civil & commercial,Other
+train_0653,Criminal,Criminal
+train_0654,Public & administrative,Public & administrative
+train_0656,Criminal,Criminal
+train_0657,Civil & commercial,Civil & commercial
+train_0658,Civil & commercial,Civil & commercial
+train_0659,Civil & commercial,Civil & commercial
+train_0660,Civil & commercial,Civil & commercial
+train_0661,Civil & commercial,Civil & commercial
+train_0662,Public & administrative,Other
+train_0663,Civil & commercial,Civil & commercial
+train_0664,Civil & commercial,Civil & commercial
+train_0665,Public & administrative,Other
+train_0666,Other,Other
+train_0667,Other,"Tax, social & financial"
+train_0668,Other,Civil & commercial
+train_0671,Other,Other
+train_0672,Other,Public & administrative
+train_0673,Civil & commercial,Civil & commercial
+train_0674,Other,Criminal
+train_0675,Civil & commercial,Civil & commercial
+train_0676,Public & administrative,Public & administrative
+train_0677,Criminal,Criminal
+train_0678,Other,Criminal
+train_0679,Public & administrative,Other
+train_0681,Public & administrative,Public & administrative
+train_0682,Public & administrative,Public & administrative
+train_0683,Civil & commercial,Civil & commercial
+train_0684,Civil & commercial,Civil & commercial
+train_0685,"Tax, social & financial",Other
+train_0686,Other,Other
+train_0687,Public & administrative,Public & administrative
+train_0688,"Tax, social & financial","Tax, social & financial"
+train_0690,"Tax, social & financial","Tax, social & financial"
+train_0691,Civil & commercial,Civil & commercial
+train_0692,Civil & commercial,Civil & commercial
+train_0694,Other,Other
+train_0695,Civil & commercial,Civil & commercial
+train_0696,Criminal,Criminal
+train_0697,Other,Criminal
+train_0698,Public & administrative,Public & administrative
+train_0699,Other,Other
+train_0700,Civil & commercial,Civil & commercial
+train_0702,Criminal,Criminal
+train_0703,Other,Other
+train_0705,"Tax, social & financial","Tax, social & financial"
+train_0706,Civil & commercial,Civil & commercial
+train_0707,Civil & commercial,Civil & commercial
+train_0708,Public & administrative,Criminal
+train_0709,Civil & commercial,Civil & commercial
+train_0710,Public & administrative,Public & administrative
+train_0711,Other,Other
+train_0712,Other,Public & administrative
+train_0713,Criminal,Criminal
+train_0714,Civil & commercial,Civil & commercial
+train_0715,Public & administrative,Other
+train_0716,Civil & commercial,Civil & commercial
+train_0717,Other,Other
+train_0718,Criminal,Criminal
+train_0719,Other,"Tax, social & financial"
+train_0721,Other,Other
+train_0722,Public & administrative,"Tax, social & financial"
+train_0724,Civil & commercial,Civil & commercial
+train_0725,"Tax, social & financial","Tax, social & financial"
+train_0726,Public & administrative,Other
+train_0727,"Tax, social & financial","Tax, social & financial"
+train_0728,Civil & commercial,Civil & commercial
+train_0729,Civil & commercial,Civil & commercial
+train_0730,Civil & commercial,Civil & commercial
+train_0731,Public & administrative,Public & administrative
+train_0732,Civil & commercial,Civil & commercial
+train_0733,Civil & commercial,Civil & commercial
+train_0734,Other,Criminal
+train_0735,Public & administrative,Criminal
+train_0736,Other,Other
+train_0737,"Tax, social & financial","Tax, social & financial"
+train_0738,"Tax, social & financial","Tax, social & financial"
+train_0739,Criminal,Criminal
+train_0741,Other,Other
+train_0742,Civil & commercial,Civil & commercial
+train_0743,Civil & commercial,Civil & commercial
+train_0744,Procedure & enforcement,Procedure & enforcement
+train_0745,Civil & commercial,Civil & commercial
+train_0746,Public & administrative,Public & administrative
+train_0747,Civil & commercial,"Tax, social & financial"
+train_0748,Public & administrative,Public & administrative
+train_0749,Civil & commercial,Civil & commercial
+train_0750,"Tax, social & financial","Tax, social & financial"
+train_0753,Criminal,Criminal
+train_0754,Civil & commercial,Civil & commercial
+train_0755,Other,"Tax, social & financial"
+train_0757,"Tax, social & financial","Tax, social & financial"
+train_0758,Civil & commercial,Civil & commercial
+train_0759,Criminal,Criminal
+train_0762,Other,Public & administrative
+train_0763,Civil & commercial,Civil & commercial
+train_0764,Other,Other
+train_0765,Other,Criminal
+train_0766,Civil & commercial,Civil & commercial
+train_0767,Public & administrative,Public & administrative
+train_0769,Civil & commercial,Civil & commercial
+train_0771,"Tax, social & financial","Tax, social & financial"
+train_0772,"Tax, social & financial","Tax, social & financial"
+train_0773,Public & administrative,Other
+train_0774,Civil & commercial,Civil & commercial
+train_0775,Public & administrative,Public & administrative
+train_0776,Civil & commercial,Procedure & enforcement
+train_0777,Criminal,Criminal
+train_0778,Civil & commercial,Civil & commercial
+train_0779,Criminal,Criminal
+train_0780,Other,Civil & commercial
+train_0781,Criminal,Criminal
+train_0782,"Tax, social & financial","Tax, social & financial"
+train_0783,Criminal,Criminal
+train_0785,Other,Other
+train_0786,Civil & commercial,Civil & commercial
+train_0787,Civil & commercial,Civil & commercial
+train_0789,Other,Other
+train_0790,Public & administrative,Public & administrative
+train_0791,Civil & commercial,Civil & commercial
+train_0792,"Tax, social & financial","Tax, social & financial"
+train_0793,Public & administrative,Public & administrative
+train_0794,Civil & commercial,Civil & commercial
+train_0795,Public & administrative,Public & administrative
+train_0796,Public & administrative,Public & administrative
+train_0798,Civil & commercial,Civil & commercial
+train_0800,Public & administrative,Public & administrative
+train_0801,Civil & commercial,Civil & commercial
+train_0802,Other,Other
+train_0803,Criminal,Criminal
+train_0804,Public & administrative,Public & administrative
+train_0805,Civil & commercial,Civil & commercial
+train_0806,Other,Criminal
+train_0808,Civil & commercial,Civil & commercial
+train_0809,Criminal,Criminal
+train_0811,Other,Other
+train_0814,Other,Other
+train_0815,Other,Other
+train_0816,Civil & commercial,Civil & commercial
+train_0817,Public & administrative,Public & administrative
+train_0818,"Tax, social & financial","Tax, social & financial"
+train_0819,Other,Other
+train_0821,Other,Other
+train_0822,Public & administrative,Public & administrative
+train_0823,Civil & commercial,Civil & commercial
+train_0824,Civil & commercial,Civil & commercial
+train_0825,Civil & commercial,Civil & commercial
+train_0826,Civil & commercial,Civil & commercial
+train_0827,Criminal,Criminal
+train_0830,Other,Public & administrative
+train_0833,"Tax, social & financial","Tax, social & financial"
+train_0834,"Tax, social & financial","Tax, social & financial"
+train_0835,Other,Other
+train_0836,Civil & commercial,Civil & commercial
+train_0837,Public & administrative,Other
+train_0838,Civil & commercial,Civil & commercial
+train_0839,"Tax, social & financial","Tax, social & financial"
+train_0840,Civil & commercial,Civil & commercial
+train_0841,Civil & commercial,Civil & commercial
+train_0842,Civil & commercial,Civil & commercial
+train_0843,"Tax, social & financial","Tax, social & financial"
+train_0844,Other,Criminal
+train_0845,Civil & commercial,Civil & commercial
+train_0846,Other,Other
+train_0847,Civil & commercial,Civil & commercial
+train_0848,Public & administrative,Public & administrative
+train_0849,Criminal,Criminal
+train_0851,Criminal,Criminal
+train_0853,Public & administrative,Public & administrative
+train_0854,Civil & commercial,Civil & commercial
+train_0855,Civil & commercial,Civil & commercial
+train_0856,Other,Other
+train_0857,Procedure & enforcement,Public & administrative
+train_0861,Criminal,Criminal
+train_0862,Other,Other
+train_0863,Other,"Tax, social & financial"
+train_0864,Other,Public & administrative
+train_0865,Other,Other
+train_0866,Criminal,Criminal
+train_0867,Criminal,Criminal
+train_0868,Civil & commercial,Civil & commercial
+train_0869,Criminal,Criminal
+train_0870,Other,Other
+train_0871,Civil & commercial,Civil & commercial
+train_0872,"Tax, social & financial","Tax, social & financial"
+train_0873,Criminal,Criminal
+train_0874,Public & administrative,Other
+train_0875,Other,Other
+train_0876,Criminal,Criminal
+train_0877,Civil & commercial,Civil & commercial
+train_0878,Public & administrative,Other
+train_0879,Public & administrative,Public & administrative
+train_0880,Civil & commercial,Civil & commercial
+train_0882,Public & administrative,Public & administrative
+train_0883,Public & administrative,Public & administrative
+train_0884,"Tax, social & financial","Tax, social & financial"
+train_0886,"Tax, social & financial","Tax, social & financial"
+train_0887,"Tax, social & financial","Tax, social & financial"
+train_0888,Other,Other
+train_0889,Civil & commercial,Civil & commercial
+train_0890,Civil & commercial,Civil & commercial
+train_0891,Civil & commercial,Civil & commercial
+train_0892,Civil & commercial,Civil & commercial
+train_0895,Civil & commercial,Civil & commercial
+train_0897,Public & administrative,Public & administrative
+train_0898,Public & administrative,Public & administrative
+train_0899,"Tax, social & financial","Tax, social & financial"
+train_0900,Other,Other
+train_0901,Other,Civil & commercial
+train_0902,Other,Other
+train_0903,Public & administrative,Public & administrative
+train_0904,Civil & commercial,Civil & commercial
+train_0905,"Tax, social & financial","Tax, social & financial"
+train_0907,Civil & commercial,Civil & commercial
+train_0908,Other,Civil & commercial
+train_0909,Civil & commercial,Civil & commercial
+train_0910,Civil & commercial,Civil & commercial
+train_0912,Other,Criminal
+train_0913,Civil & commercial,Civil & commercial
+train_0914,Civil & commercial,Civil & commercial
+train_0915,Civil & commercial,Civil & commercial
+train_0916,Public & administrative,Public & administrative
+train_0917,"Tax, social & financial","Tax, social & financial"
+train_0919,Civil & commercial,Civil & commercial
+train_0920,Other,Civil & commercial
+train_0921,Civil & commercial,Civil & commercial
+train_0922,Civil & commercial,Other
+train_0923,Other,Other
+train_0924,Other,Civil & commercial
+train_0925,Civil & commercial,Civil & commercial
+train_0926,Civil & commercial,Civil & commercial
+train_0928,Civil & commercial,Civil & commercial
+train_0929,Other,Other
+train_0930,Procedure & enforcement,Public & administrative
+train_0931,Civil & commercial,Civil & commercial
+train_0932,Civil & commercial,Civil & commercial
+train_0933,Civil & commercial,Civil & commercial
+train_0936,"Tax, social & financial","Tax, social & financial"
+train_0937,Other,Other
+train_0938,Civil & commercial,Civil & commercial
+train_0939,Other,Civil & commercial
+train_0940,Other,Other
+train_0941,Other,Other
+train_0942,Public & administrative,Public & administrative
+train_0943,Public & administrative,Public & administrative
+train_0944,Other,Public & administrative
+train_0945,Civil & commercial,Civil & commercial
+train_0946,"Tax, social & financial","Tax, social & financial"
+train_0947,Civil & commercial,Civil & commercial
+train_0948,Other,Other
+train_0949,Civil & commercial,Civil & commercial
+train_0950,"Tax, social & financial","Tax, social & financial"
+train_0951,Other,Other
+train_0953,Civil & commercial,Civil & commercial
+train_0954,Other,Other
+train_0955,Public & administrative,Public & administrative
+train_0956,"Tax, social & financial","Tax, social & financial"
+train_0958,"Tax, social & financial","Tax, social & financial"
+train_0959,Criminal,Criminal
+train_0960,Criminal,Criminal
+train_0961,Public & administrative,Public & administrative
+train_0963,Criminal,Criminal
+train_0965,"Tax, social & financial","Tax, social & financial"
+train_0966,Civil & commercial,Civil & commercial
+train_0967,Public & administrative,Public & administrative
+train_0968,Civil & commercial,Civil & commercial
+train_0969,Criminal,Criminal
+train_0971,Other,Other
+train_0973,Other,Other
+train_0974,Civil & commercial,Civil & commercial
+train_0975,Civil & commercial,Civil & commercial
+train_0976,Public & administrative,Public & administrative
+train_0977,Public & administrative,Public & administrative
+train_0979,Public & administrative,Other
+train_0980,Civil & commercial,Civil & commercial
+train_0981,Criminal,Criminal
+train_0982,Public & administrative,Public & administrative
+train_0983,"Tax, social & financial",Civil & commercial
+train_0984,Civil & commercial,Civil & commercial
+train_0985,Civil & commercial,Civil & commercial
+train_0987,Civil & commercial,Civil & commercial
+train_0988,Criminal,Criminal
+train_0990,Public & administrative,Public & administrative
+train_0991,Civil & commercial,Civil & commercial
+train_0994,Procedure & enforcement,Procedure & enforcement
+train_0995,Other,"Tax, social & financial"
+train_0996,Criminal,Criminal
+train_0997,Public & administrative,Public & administrative
+train_0999,Other,Criminal
+train_1000,Other,"Tax, social & financial"
+train_1001,Criminal,Criminal
+train_1003,Public & administrative,Criminal
+train_1004,Other,Other
+train_1005,Public & administrative,Public & administrative
+train_1006,Other,Public & administrative
+train_1007,Civil & commercial,Civil & commercial
+train_1008,Public & administrative,Public & administrative
+train_1009,Other,Other
+train_1010,Other,Other
+train_1011,Civil & commercial,Civil & commercial
+train_1012,Civil & commercial,Civil & commercial
+train_1014,Public & administrative,"Tax, social & financial"
+train_1015,Other,Other
+train_1016,Other,Other
+train_1017,Public & administrative,Other
+train_1018,"Tax, social & financial","Tax, social & financial"
+train_1019,"Tax, social & financial","Tax, social & financial"
+train_1020,"Tax, social & financial","Tax, social & financial"
+train_1021,Civil & commercial,Civil & commercial
+train_1022,Civil & commercial,Civil & commercial
+train_1023,Public & administrative,Civil & commercial
+train_1024,Public & administrative,Public & administrative
+train_1025,Civil & commercial,Civil & commercial
+train_1026,Public & administrative,Other
+train_1027,Other,Other
+train_1028,Civil & commercial,"Tax, social & financial"
+train_1030,Civil & commercial,Civil & commercial
+train_1031,Civil & commercial,Civil & commercial
+train_1032,Public & administrative,Public & administrative
+train_1033,Procedure & enforcement,Civil & commercial
+train_1034,Public & administrative,Public & administrative
+train_1035,"Tax, social & financial","Tax, social & financial"
+train_1036,Criminal,Criminal
+train_1037,Civil & commercial,Civil & commercial
+train_1038,Public & administrative,Civil & commercial
+train_1039,Civil & commercial,Civil & commercial
+train_1040,Civil & commercial,Civil & commercial
+train_1041,"Tax, social & financial","Tax, social & financial"
+train_1042,Other,Criminal
+train_1043,Other,Criminal
+train_1044,Civil & commercial,Civil & commercial
+train_1045,Civil & commercial,Civil & commercial
+train_1046,Public & administrative,Public & administrative
+train_1047,"Tax, social & financial",Civil & commercial
+train_1048,Criminal,Criminal
+train_1049,"Tax, social & financial","Tax, social & financial"
+train_1050,Civil & commercial,Civil & commercial
+train_1051,Other,Other
+train_1052,Public & administrative,Public & administrative
+train_1053,Civil & commercial,Civil & commercial
+train_1054,Civil & commercial,Civil & commercial
+train_1055,Procedure & enforcement,Procedure & enforcement
+train_1056,Other,Criminal
+train_1057,Criminal,Criminal
+train_1058,Civil & commercial,Civil & commercial
+train_1059,Public & administrative,Public & administrative
+train_1061,Criminal,Criminal
+train_1062,Civil & commercial,Civil & commercial
+train_1063,Criminal,Criminal
+train_1065,Civil & commercial,Civil & commercial
+train_1067,Public & administrative,"Tax, social & financial"
+train_1068,Public & administrative,Public & administrative
+train_1071,Other,"Tax, social & financial"
+train_1072,Procedure & enforcement,Procedure & enforcement
+train_1073,Civil & commercial,Civil & commercial
+train_1075,Civil & commercial,Civil & commercial
+train_1076,Criminal,Criminal
+train_1077,Civil & commercial,Civil & commercial
+train_1078,Public & administrative,Public & administrative
+train_1079,"Tax, social & financial",Other
+train_1080,"Tax, social & financial","Tax, social & financial"
+train_1081,Public & administrative,Civil & commercial
+train_1082,"Tax, social & financial","Tax, social & financial"
+train_1083,Procedure & enforcement,Procedure & enforcement
+train_1084,"Tax, social & financial","Tax, social & financial"
+train_1085,Public & administrative,Public & administrative
+train_1086,Civil & commercial,Civil & commercial
+train_1087,Civil & commercial,Criminal
+train_1088,Other,Criminal
+train_1089,Public & administrative,Public & administrative
+train_1090,Other,Other
+train_1092,Criminal,Criminal
+train_1093,"Tax, social & financial","Tax, social & financial"
+train_1094,"Tax, social & financial","Tax, social & financial"
+train_1095,Other,Public & administrative
+train_1096,Other,Criminal
+train_1097,"Tax, social & financial","Tax, social & financial"
+train_1099,Procedure & enforcement,Public & administrative
+train_1100,Procedure & enforcement,Procedure & enforcement
+train_1101,Other,"Tax, social & financial"
+train_1102,Civil & commercial,Civil & commercial
+train_1103,"Tax, social & financial","Tax, social & financial"
+train_1104,"Tax, social & financial","Tax, social & financial"
+train_1105,Criminal,Criminal
+train_1106,Other,"Tax, social & financial"
+train_1107,Other,Criminal
+train_1108,Public & administrative,Other
+train_1109,"Tax, social & financial",Civil & commercial
+train_1111,Civil & commercial,Civil & commercial
+train_1112,Civil & commercial,Civil & commercial
+train_1113,Other,"Tax, social & financial"
+train_1114,Public & administrative,Public & administrative
+train_1115,Public & administrative,Public & administrative
+train_1116,Civil & commercial,Civil & commercial
+train_1117,Criminal,Other
+train_1118,Civil & commercial,Civil & commercial
+train_1119,Civil & commercial,Civil & commercial
+train_1120,Other,Public & administrative
+train_1121,Civil & commercial,Civil & commercial
+train_1123,Civil & commercial,Civil & commercial
+train_1126,Civil & commercial,Civil & commercial
+train_1127,Criminal,Criminal
+train_1129,Civil & commercial,Civil & commercial
+train_1130,Public & administrative,Public & administrative
+train_1131,Criminal,Criminal
+train_1132,Criminal,Criminal
+train_1133,Civil & commercial,Civil & commercial
+train_1134,Civil & commercial,Civil & commercial
+train_1135,Other,Other
+train_1136,Public & administrative,Public & administrative
+train_1137,Other,Criminal
+train_1138,Other,Other
+train_1139,Civil & commercial,Civil & commercial

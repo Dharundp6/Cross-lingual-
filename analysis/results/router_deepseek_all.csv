@@ -1,0 +1,970 @@
+query_id,domain,codes
+train_0001,Public & administrative,USG;RPG
+train_0002,Civil & commercial,ZGB;GBV
+train_0004,Civil & commercial,OR;IPRG
+train_0005,Public & administrative,RPG;NHG;VwVG
+train_0006,Criminal,StGB
+train_0007,Civil & commercial,ZGB
+train_0008,"Tax, social & financial",DBG
+train_0009,Civil & commercial,OR
+train_0010,Criminal,StGB;StPO
+train_0011,Criminal,StGB;StPO
+train_0012,Criminal,FINMAG;StGB;VStrR
+train_0013,Civil & commercial,OR;DSG;ZGB
+train_0015,Other,AsylG
+train_0017,"Tax, social & financial",FIDLEG
+train_0018,Other,SebG
+train_0019,Civil & commercial,ZGB;OR
+train_0020,Other,AsylG
+train_0021,"Tax, social & financial",FINMAG
+train_0023,Criminal,JStG;StGB
+train_0026,Civil & commercial,ZGB;URG
+train_0027,Other,EleG
+train_0029,Civil & commercial,IPRG;OR;ZPO
+train_0031,Civil & commercial,ZGB
+train_0032,Civil & commercial,OR;ZGB;ZPO
+train_0033,Other,URG;KG
+train_0034,Procedure & enforcement,SchKG
+train_0035,Civil & commercial,OR
+train_0036,Civil & commercial,OR;ZPO;SchKG
+train_0037,Civil & commercial,ZPO
+train_0038,Civil & commercial,OR;ZGB
+train_0039,Civil & commercial,ZGB;ZPO
+train_0040,Public & administrative,SVG
+train_0041,"Tax, social & financial",ATSG;AHVG;IVG;OR
+train_0042,Criminal,JStG;StGB
+train_0043,"Tax, social & financial",DBG;StHG;VStG
+train_0044,Civil & commercial,FIDLEG;OR
+train_0045,Civil & commercial,OR;DSG;ZPO
+train_0046,"Tax, social & financial",DBG;StHG
+train_0047,Civil & commercial,OR;ZGB
+train_0048,Civil & commercial,OR;ZPO
+train_0049,Other,FinfraG
+train_0050,Public & administrative,BV
+train_0051,Civil & commercial,OR;StGB;BV
+train_0052,Civil & commercial,ZGB;OR;SchKG
+train_0053,Public & administrative,URG
+train_0054,Other,DBG;VStG
+train_0055,Civil & commercial,OR
+train_0056,Civil & commercial,ZGB;GBV
+train_0057,Criminal,StGB;StPO;JStG
+train_0058,Criminal,StPO
+train_0059,"Tax, social & financial",DBG;StHG
+train_0060,Civil & commercial,IPRG;ZGB;ZPO
+train_0061,Public & administrative,VwVG;BV
+train_0062,"Tax, social & financial",DBG;StHG
+train_0063,Other,BankG;FINMAG
+train_0064,Public & administrative,BV;VwVG
+train_0065,Public & administrative,BV
+train_0066,Civil & commercial,ZGB;GBV
+train_0068,Civil & commercial,ZGB
+train_0070,Civil & commercial,ZGB;OR
+train_0071,Other,PSyG
+train_0072,"Tax, social & financial",UVG;IVG
+train_0073,Other,BV;BüG
+train_0074,Civil & commercial,IPRG
+train_0075,Civil & commercial,OR;ZPO
+train_0077,Civil & commercial,OR;ZGB
+train_0078,Other,ETHG
+train_0079,Public & administrative,RPG;BV
+train_0080,Civil & commercial,OR;ZPO
+train_0081,Public & administrative,RPG;VwVG
+train_0082,Public & administrative,RPG;VwVG;ZGB
+train_0083,Public & administrative,RPG;ZGB
+train_0084,Public & administrative,BV;USG
+train_0087,Public & administrative,USG;RPG;SVG
+train_0088,"Tax, social & financial",DBG;StHG
+train_0089,Other,IRSG
+train_0091,Public & administrative,NHG;EleG
+train_0092,Civil & commercial,IPRG
+train_0093,Civil & commercial,ZGB;OR
+train_0094,Public & administrative,RPG
+train_0095,"Tax, social & financial",DBG;StHG
+train_0096,Civil & commercial,ZGB;OR
+train_0099,"Tax, social & financial",FIDLEG;FinfraG
+train_0100,Other,VVG;SchKG
+train_0101,Civil & commercial,OR;ZPO;IPRG
+train_0103,Civil & commercial,IPRG;LugUe
+train_0104,Other,ETH-Gesetz
+train_0105,Civil & commercial,OR
+train_0106,Civil & commercial,OR
+train_0107,Other,BankG
+train_0108,"Tax, social & financial",DBG;StHG
+train_0109,Other,FINMAG;BankG
+train_0110,Public & administrative,BV
+train_0111,Public & administrative,BV
+train_0112,Public & administrative,BV;BGG;VwVG
+train_0113,Civil & commercial,ZGB;OR;DSG
+train_0114,"Tax, social & financial",AHVG
+train_0115,Civil & commercial,OR
+train_0116,Criminal,StGB;StPO
+train_0117,Other,
+train_0119,Other,BankG
+train_0120,Other,UWG
+train_0121,Public & administrative,BV
+train_0122,Other,MVG
+train_0124,Public & administrative,OR;DSG;BV
+train_0125,Other,BetmG
+train_0126,Civil & commercial,OR
+train_0127,Public & administrative,NHG;USG;RPG
+train_0128,Public & administrative,BV;VwVG
+train_0129,Public & administrative,DSG
+train_0130,Criminal,StGB
+train_0131,"Tax, social & financial",BVG;DBG
+train_0132,"Tax, social & financial",FIDLEG;FINMAG;OR
+train_0133,Public & administrative,SVG
+train_0134,Civil & commercial,IPRG;LugUe
+train_0135,Public & administrative,USG;RPG;SVG
+train_0136,Public & administrative,NHG;RPG;BV
+train_0137,Civil & commercial,OR
+train_0138,Public & administrative,NHG;RPG;USG
+train_0139,Civil & commercial,ZGB;IPRG
+train_0140,Criminal,StGB;StPO;JStG
+train_0141,Other,
+train_0142,Public & administrative,RPG;VwVG
+train_0143,Public & administrative,AIG
+train_0144,Criminal,StGB;StPO
+train_0147,"Tax, social & financial",FINMAG
+train_0148,Other,AsylG
+train_0151,Other,SebG
+train_0152,Civil & commercial,ZGB;RPG
+train_0153,Public & administrative,NHG;VwVG
+train_0154,Civil & commercial,IPRG
+train_0155,Civil & commercial,ZGB;ZPO
+train_0156,Other,FamZG
+train_0158,Public & administrative,RPG
+train_0159,Public & administrative,BV
+train_0160,Civil & commercial,ZGB;ZPO
+train_0161,Civil & commercial,OR;ZGB
+train_0163,Other,ArG
+train_0164,Other,VStG
+train_0165,Civil & commercial,ZPO;IPRG
+train_0166,Public & administrative,USG
+train_0167,Criminal,StGB;JStG
+train_0169,Civil & commercial,OR;ZGB;ZPO
+train_0170,Civil & commercial,ZGB;ZPO
+train_0171,Other,BankG;FINMAG
+train_0173,Civil & commercial,ZGB;OR
+train_0174,Civil & commercial,OR;DSG
+train_0175,Other,AsylG;BV
+train_0176,"Tax, social & financial",DBG;StHG
+train_0178,Criminal,StGB;FINMAG
+train_0179,Public & administrative,VwVG;BV
+train_0180,Procedure & enforcement,ZPO
+train_0181,Other,StromVG
+train_0182,Public & administrative,RPG
+train_0183,Other,KGTG
+train_0185,"Tax, social & financial",DBG;StHG;OR
+train_0187,Public & administrative,RPG;PBG
+train_0189,Civil & commercial,IPRG
+train_0190,Criminal,StGB;JStG;StPO
+train_0191,Civil & commercial,OR;ZGB
+train_0192,Other,UWG
+train_0193,Civil & commercial,IPRG;ZPO;ZGB;LugUe;MSchG
+train_0194,Civil & commercial,ZGB;OR
+train_0195,"Tax, social & financial",DBG;StHG
+train_0196,"Tax, social & financial",UVG;ATSG
+train_0197,Criminal,StGB
+train_0198,Public & administrative,BV;VwVG;BGG
+train_0199,"Tax, social & financial",ATSG
+train_0200,Other,KGTG
+train_0201,Public & administrative,VwVG;DSG;FINMAG
+train_0202,Civil & commercial,ZGB;OR
+train_0203,"Tax, social & financial",FINMAG
+train_0205,Civil & commercial,OR
+train_0206,Public & administrative,RPG;NHG;BGBB
+train_0208,Other,GwG;StGB
+train_0210,Other,AsylG;BV
+train_0211,Criminal,StGB;StPO;JStG
+train_0212,Criminal,StGB
+train_0213,Criminal,StGB
+train_0214,"Tax, social & financial",ATSG;IVG;UVG
+train_0215,Civil & commercial,ZPO;OR;ZGB
+train_0216,Civil & commercial,OR;ZGB;ZPO
+train_0218,"Tax, social & financial",UVG
+train_0219,Civil & commercial,IPRG;ZGB
+train_0220,Criminal,AIG;StGB;StPO
+train_0221,Other,FamZG
+train_0222,Other,BankG
+train_0223,Civil & commercial,IPRG
+train_0225,Public & administrative,RPG;BV
+train_0226,Criminal,StGB;JStG;StPO
+train_0227,Civil & commercial,OR;ZPO
+train_0229,Civil & commercial,IPRG;ZGB;ZPO
+train_0230,Civil & commercial,OR;ZPO
+train_0231,Civil & commercial,ZGB;GBV
+train_0232,Civil & commercial,OR;IPRG;ZPO
+train_0233,Criminal,StGB;StPO
+train_0234,Civil & commercial,ZGB;GBV
+train_0235,Civil & commercial,OR;ZGB
+train_0236,Civil & commercial,OR;DBG
+train_0237,Civil & commercial,ZGB;OR
+train_0238,Civil & commercial,OR;ZGB;ZPO
+train_0239,Other,AsylG
+train_0240,"Tax, social & financial",DBG;StHG
+train_0241,Civil & commercial,BankG;OR
+train_0242,Criminal,StGB
+train_0244,Public & administrative,BV;BüG
+train_0245,Other,
+train_0246,Civil & commercial,ZPO
+train_0247,Civil & commercial,ZGB;ZPO;IPRG
+train_0248,"Tax, social & financial",FINMAG;FIDLEG
+train_0249,Civil & commercial,OR;ZGB
+train_0250,Public & administrative,RPG;BV;PBG
+train_0251,Criminal,StGB
+train_0252,Civil & commercial,OR
+train_0253,Civil & commercial,ZGB;OR
+train_0254,Other,BetmG
+train_0255,Criminal,StGB
+train_0256,Civil & commercial,OR;IPRG;ZPO
+train_0257,Civil & commercial,ZGB;OR
+train_0259,Civil & commercial,OR
+train_0260,Civil & commercial,ZGB;OR;ZPO;SchKG
+train_0261,Criminal,StGB;JStG
+train_0262,Public & administrative,FINMAG;VwVG
+train_0263,Criminal,StGB;StPO
+train_0266,Civil & commercial,OR;ZGB;ZPO
+train_0267,Criminal,StGB
+train_0268,Criminal,StGB;StPO
+train_0269,"Tax, social & financial",BVG
+train_0270,Criminal,StGB;StPO
+train_0271,Procedure & enforcement,BGG;BV
+train_0272,Public & administrative,USG
+train_0274,"Tax, social & financial",IVG;UVG;BVG
+train_0275,Civil & commercial,ZGB;OR;GBV
+train_0276,Other,KVG
+train_0277,Other,BankG
+train_0278,Public & administrative,RPG;USG
+train_0279,Public & administrative,BV
+train_0280,Procedure & enforcement,SchKG;OR
+train_0281,Civil & commercial,ZGB
+train_0282,Civil & commercial,OR
+train_0284,Other,BV;BüG
+train_0286,Civil & commercial,ZGB;IPRG
+train_0287,Civil & commercial,ZGB;GBV
+train_0288,Criminal,StGB;StPO;JStG;ZGB
+train_0289,Public & administrative,BV;EMRK
+train_0290,"Tax, social & financial",DBG;StHG
+train_0292,Other,FINIG
+train_0293,Other,VStG
+train_0295,Civil & commercial,ZGB;OR
+train_0297,"Tax, social & financial",DBG;StHG
+train_0298,Civil & commercial,ZGB
+train_0299,"Tax, social & financial",UVG;ATSG
+train_0300,Civil & commercial,ZGB;OR
+train_0301,Civil & commercial,OR;ZGB;BGG
+train_0304,Other,PatG;OR
+train_0309,Other,BankG;FINMAG
+train_0312,Civil & commercial,ZGB
+train_0313,Civil & commercial,ZGB;IPRG
+train_0314,Other,PatG;UWG;OR
+train_0315,Civil & commercial,OR
+train_0317,Criminal,StGB;StPO
+train_0319,Other,OR;PatG;UWG
+train_0320,Civil & commercial,ZGB
+train_0322,Criminal,StGB;StPO
+train_0324,Public & administrative,AIG
+train_0325,Criminal,StGB
+train_0326,Civil & commercial,OR;MSchG
+train_0328,Criminal,StGB;StPO
+train_0329,Civil & commercial,ZGB
+train_0330,Civil & commercial,OR
+train_0331,Civil & commercial,ZGB;OR
+train_0332,Other,KVG
+train_0335,Other,KVG
+train_0336,"Tax, social & financial",ATSG
+train_0338,Other,AsylG
+train_0339,Civil & commercial,OR
+train_0340,Civil & commercial,ZPO
+train_0341,Other,AsylG
+train_0342,"Tax, social & financial",DBG;StHG;BVG
+train_0343,Criminal,StGB;StPO
+train_0344,Public & administrative,BV
+train_0345,Criminal,StGB;BV
+train_0347,Criminal,StGB
+train_0349,Procedure & enforcement,SchKG
+train_0351,Criminal,StGB;StPO
+train_0352,Civil & commercial,ZGB;ZPO;GBV
+train_0353,"Tax, social & financial",DBG;StHG
+train_0354,Civil & commercial,ZGB
+train_0355,Other,BüG;VwVG;BGG
+train_0356,Civil & commercial,ZGB;OR
+train_0357,Criminal,StGB;StPO;JStG
+train_0358,Other,BV;EpG
+train_0359,Civil & commercial,OR;ZPO
+train_0360,Criminal,StPO
+train_0362,Public & administrative,BV;AIG
+train_0363,"Tax, social & financial",AHVG;ATSG
+train_0364,Civil & commercial,OR;ZGB
+train_0365,Criminal,StGB;StPO;JStG
+train_0366,Civil & commercial,ZGB;ZPO
+train_0367,Civil & commercial,ZGB;OR
+train_0368,Civil & commercial,ZPO;SchKG
+train_0369,Public & administrative,USG;NHG;BV
+train_0371,Criminal,BV;StPO
+train_0373,Civil & commercial,ZPO;OR
+train_0374,"Tax, social & financial",DBG;StHG
+train_0375,Procedure & enforcement,BGG;VwVG
+train_0376,"Tax, social & financial",DBG;StHG;KAG
+train_0377,Other,AsylG
+train_0378,Civil & commercial,OR;ZGB
+train_0379,Civil & commercial,OR
+train_0380,Other,
+train_0381,"Tax, social & financial",UVG;ATSG
+train_0382,Criminal,StGB;StPO;JStG
+train_0383,Civil & commercial,ZPO;OR
+train_0384,Civil & commercial,ZGB
+train_0385,Civil & commercial,ZGB;ZPO
+train_0387,Civil & commercial,ZGB;OR
+train_0388,"Tax, social & financial",DBG;StHG
+train_0389,Civil & commercial,ZGB;ZPO
+train_0390,"Tax, social & financial",DBG;StHG;KAG
+train_0391,Civil & commercial,OR
+train_0392,"Tax, social & financial",DBG;StHG;AIG
+train_0393,Public & administrative,RPG;USG
+train_0394,Other,BV;BüG
+train_0395,Civil & commercial,ZGB;OR
+train_0396,Other,BankG
+train_0397,Criminal,JStG;StGB;StPO
+train_0398,Public & administrative,USG;NHG;SVG;VwVG;BV
+train_0399,Civil & commercial,OR;ZPO;SchKG
+train_0401,Civil & commercial,ZGB
+train_0402,Public & administrative,StGB;BV;DSG
+train_0403,Civil & commercial,ZGB;IPRG
+train_0404,Criminal,StPO;BetmG
+train_0405,Procedure & enforcement,SchKG
+train_0407,Civil & commercial,OR
+train_0408,"Tax, social & financial",DBG;StHG;StGB
+train_0409,"Tax, social & financial",FINMAG
+train_0410,Other,BüG
+train_0411,"Tax, social & financial",UVG;ATSG
+train_0412,Other,VStG
+train_0414,Public & administrative,USG
+train_0415,Other,BankG;FINMAG
+train_0416,Civil & commercial,IPRG
+train_0417,Civil & commercial,ZGB;OR
+train_0418,Public & administrative,USG;RPG
+train_0420,Civil & commercial,ZGB;OR;URG
+train_0421,"Tax, social & financial",AHVG;IVG;ATSG
+train_0422,Criminal,JStG
+train_0423,Civil & commercial,OR;ZGB;IPRG
+train_0424,Civil & commercial,ZGB;GBV
+train_0425,Civil & commercial,OR;ZGB
+train_0426,Criminal,StGB;StPO;BV
+train_0427,Civil & commercial,OR;ZPO;ZGB
+train_0429,Public & administrative,AIG
+train_0430,"Tax, social & financial",DBG;StHG
+train_0432,Other,AsylG;AIG
+train_0433,Other,AsylG
+train_0434,Criminal,StGB;AIG
+train_0435,Other,EleG
+train_0436,"Tax, social & financial",FIDLEG;FINMAG
+train_0439,Civil & commercial,ZGB
+train_0440,Other,PatG
+train_0441,Criminal,StGB;StPO;JStG
+train_0442,Other,BüG
+train_0443,Other,KVG
+train_0444,Civil & commercial,ZGB;BVG
+train_0445,Criminal,StGB
+train_0446,Criminal,StPO;StGB
+train_0447,Public & administrative,URG
+train_0448,Criminal,StGB
+train_0449,Other,UVG
+train_0450,Public & administrative,BV
+train_0451,"Tax, social & financial",UVG
+train_0453,Other,BV;EMRK
+train_0454,"Tax, social & financial",AHVG;UVG;ATSG
+train_0455,Criminal,StPO;StGB
+train_0456,Procedure & enforcement,SchKG
+train_0457,Criminal,StGB
+train_0459,"Tax, social & financial",DBG;StHG
+train_0460,Civil & commercial,OR;ZGB
+train_0461,Civil & commercial,ZGB
+train_0462,Civil & commercial,OR;ZPO
+train_0463,Other,NBG
+train_0464,Civil & commercial,ZGB;OR
+train_0465,Civil & commercial,ZGB;GBV
+train_0466,Civil & commercial,OR;PatG
+train_0467,"Tax, social & financial",DBG;StHG
+train_0469,Criminal,StGB;JStG
+train_0470,Criminal,StPO;StGB
+train_0472,Civil & commercial,OR;ZGB
+train_0473,Civil & commercial,ZGB;GBV
+train_0474,Criminal,StGB;StPO
+train_0475,Public & administrative,VwVG;BV
+train_0476,"Tax, social & financial",AHVG
+train_0477,"Tax, social & financial",FINMAG
+train_0478,"Tax, social & financial",DBG;StHG
+train_0479,Criminal,StPO
+train_0480,Civil & commercial,IPRG;ZPO;OR;ZGB;LugUe
+train_0481,Civil & commercial,ZGB;GBV
+train_0483,Other,KVG
+train_0484,Other,VVG;SVG;OR
+train_0485,Civil & commercial,ZGB;OR
+train_0486,Public & administrative,BV
+train_0487,Criminal,StPO;JStPO
+train_0488,Criminal,StGB;StPO
+train_0489,Public & administrative,NHG;RPG
+train_0490,Civil & commercial,OR;FIDLEG;BGF
+train_0491,"Tax, social & financial",AHVG;IVG;UVG;ATSG
+train_0492,Other,VStG
+train_0493,Public & administrative,BV;AIG
+train_0494,"Tax, social & financial",ATSG;UVG;IVG
+train_0495,Civil & commercial,OR;ZPO
+train_0496,Civil & commercial,ZPO;OR
+train_0497,Civil & commercial,ZGB;OR
+train_0498,Civil & commercial,ZGB
+train_0499,Other,ChemG
+train_0500,Civil & commercial,OR
+train_0501,Civil & commercial,OR;ZGB
+train_0502,Civil & commercial,IPRG
+train_0503,Other,StGB;GwG
+train_0504,Civil & commercial,ZGB;OR
+train_0505,Criminal,StGB
+train_0507,Civil & commercial,OR
+train_0508,Other,VStG
+train_0509,Public & administrative,BV
+train_0510,Procedure & enforcement,BGG;BV
+train_0511,Civil & commercial,OR
+train_0512,Other,KGTG
+train_0514,Other,EleG
+train_0515,Public & administrative,URG
+train_0516,Other,KVG
+train_0517,Civil & commercial,ZPO
+train_0519,Other,URG;MSchG
+train_0520,"Tax, social & financial",FIDLEG
+train_0521,Civil & commercial,ZGB
+train_0522,Criminal,StGB;JStG;StPO
+train_0524,Criminal,StPO;BV;StGB
+train_0525,Civil & commercial,OR
+train_0526,Civil & commercial,ZGB;OR
+train_0527,"Tax, social & financial",AHVG;BVG;ATSG
+train_0528,Civil & commercial,ZGB;OR
+train_0529,Civil & commercial,OR;ZPO;SchKG
+train_0532,Civil & commercial,ZGB
+train_0533,"Tax, social & financial",DBG;StHG
+train_0534,Other,
+train_0535,Civil & commercial,ZGB;OR
+train_0536,Civil & commercial,BVG;ZGB
+train_0537,Civil & commercial,OR;IPRG
+train_0538,"Tax, social & financial",VAG
+train_0539,Other,BüG
+train_0540,Criminal,StGB;StPO
+train_0541,Criminal,StPO
+train_0542,Public & administrative,AIG;BV
+train_0543,Other,KG;UWG
+train_0544,Civil & commercial,ZGB;OR
+train_0545,Other,PatG;UWG;OR
+train_0546,Public & administrative,URG
+train_0547,Civil & commercial,ZGB
+train_0548,Public & administrative,USG;RPG;VwVG;BGG
+train_0549,Criminal,StGB
+train_0550,Other,AsylG
+train_0552,Other,
+train_0553,Criminal,StGB;StPO
+train_0554,Other,AsylG;BV
+train_0555,Civil & commercial,ZGB
+train_0556,Criminal,JStG;StPO
+train_0557,Civil & commercial,OR;ZGB;SchKG
+train_0559,Criminal,StGB;StPO
+train_0560,Civil & commercial,OR
+train_0561,Other,KVG
+train_0563,Public & administrative,BV;EMRK
+train_0564,Public & administrative,AIG
+train_0565,Criminal,StGB
+train_0566,Criminal,StGB
+train_0567,Other,KGTG
+train_0569,"Tax, social & financial",DBG
+train_0570,Civil & commercial,ZPO;OR
+train_0571,"Tax, social & financial",AHVG;ATSG
+train_0572,Civil & commercial,ZPO;OR
+train_0573,"Tax, social & financial",DBG;StHG
+train_0574,Criminal,JStG
+train_0576,Civil & commercial,OR;ZPO;SchKG
+train_0577,Civil & commercial,ZGB
+train_0578,"Tax, social & financial",DBG;StHG
+train_0579,Public & administrative,USG
+train_0580,Civil & commercial,IPRG;ZGB
+train_0581,Civil & commercial,ZGB;OR
+train_0582,Civil & commercial,ZGB;GBV
+train_0583,Public & administrative,FINMAG;VwVG;OR;BV
+train_0584,Criminal,StGB;StPO;JStG
+train_0587,"Tax, social & financial",DBG;StHG
+train_0588,Public & administrative,VwVG;BV
+train_0589,Other,KVG
+train_0590,Public & administrative,URG
+train_0592,Civil & commercial,OR
+train_0593,Procedure & enforcement,BV;BGG
+train_0594,Civil & commercial,ZGB;OR;ZPO;GBV
+train_0595,Civil & commercial,ZGB
+train_0596,Other,KVG
+train_0597,Criminal,StGB;StPO
+train_0598,Criminal,StGB;StPO
+train_0599,Civil & commercial,ZGB
+train_0600,Civil & commercial,OR
+train_0602,Public & administrative,BV;VwVG
+train_0603,Public & administrative,URG
+train_0604,"Tax, social & financial",DBG;StHG
+train_0606,"Tax, social & financial",BVG
+train_0607,Civil & commercial,ZGB;GBV
+train_0608,"Tax, social & financial",DBG;StHG
+train_0609,Civil & commercial,IPRG
+train_0610,Other,KGTG
+train_0611,Civil & commercial,ZGB;GBV;OR
+train_0612,Other,
+train_0614,Other,FinfraG;StGB;VStrR
+train_0615,Criminal,BV;StPO;EMRK
+train_0617,Public & administrative,RPG;LwG
+train_0618,Other,PatG
+train_0619,Civil & commercial,ZPO;ZGB
+train_0620,Criminal,StGB
+train_0621,Civil & commercial,ZGB;OR
+train_0623,Civil & commercial,ZGB;ZPO
+train_0625,Public & administrative,BV;EOG
+train_0626,Civil & commercial,OR
+train_0627,Criminal,StGB;StPO
+train_0628,"Tax, social & financial",DBG;StHG
+train_0630,Other,BV;EMRK
+train_0631,Civil & commercial,ZGB;IPRG
+train_0633,Civil & commercial,OR;KG;IPRG
+train_0634,Other,MSchG
+train_0635,Civil & commercial,ZGB
+train_0636,Civil & commercial,OR;IPRG
+train_0637,Public & administrative,SVG;USG;GSchG;NHG;VwVG
+train_0638,"Tax, social & financial",DBG;StHG
+train_0639,Procedure & enforcement,SchKG
+train_0640,"Tax, social & financial",DBG;StHG
+train_0641,Public & administrative,VwVG;EBG;EntG;VGG
+train_0642,Criminal,StGB;IRSG
+train_0643,Civil & commercial,OR;SchKG
+train_0644,Criminal,StGB
+train_0645,Civil & commercial,OR;ZGB;IPRG
+train_0646,Public & administrative,URG
+train_0647,"Tax, social & financial",DBG;StHG
+train_0648,Other,URG
+train_0649,Civil & commercial,ZGB
+train_0650,Civil & commercial,IPRG;OR
+train_0651,"Tax, social & financial",UVG;ATSG
+train_0652,Other,BankG
+train_0653,Criminal,StGB;StPO
+train_0654,Public & administrative,DSG;BV
+train_0656,Criminal,StGB
+train_0657,Civil & commercial,OR;IPRG
+train_0658,Civil & commercial,ZGB
+train_0659,Civil & commercial,ZGB;OR
+train_0660,Civil & commercial,ZGB
+train_0661,Civil & commercial,IPRG
+train_0662,Other,StGB;BetmG;FZA
+train_0663,Civil & commercial,ZGB
+train_0664,Civil & commercial,ZGB;GBV;GeoIG
+train_0665,Other,AIG
+train_0666,Other,ArG
+train_0667,"Tax, social & financial",FIDLEG
+train_0668,Civil & commercial,OR;ZGB
+train_0671,Other,VStG;OR;DBG
+train_0672,Public & administrative,BV
+train_0673,Civil & commercial,OR;IPRG;BGG
+train_0674,Criminal,StPO;JStG
+train_0675,Civil & commercial,OR;IPRG
+train_0676,Public & administrative,URG
+train_0677,Criminal,JStG
+train_0678,Criminal,StGB;StPO;JStG
+train_0679,Other,EnG
+train_0681,Public & administrative,BV;DSG
+train_0682,Public & administrative,USG;VwVG
+train_0683,Civil & commercial,ZGB
+train_0684,Civil & commercial,ZGB;ZPO
+train_0685,Other,FIDLEG;FINIG
+train_0686,Other,KKG
+train_0687,Public & administrative,NHG
+train_0688,"Tax, social & financial",ATSG
+train_0690,"Tax, social & financial",DBG;StHG
+train_0691,Civil & commercial,ZGB;OR;IPRG;ZPO
+train_0692,Civil & commercial,ZGB;GBV
+train_0694,Other,BV;BPR
+train_0695,Civil & commercial,OR
+train_0696,Criminal,StGB;JStG
+train_0697,Criminal,StGB
+train_0698,Public & administrative,VwVG;BV
+train_0699,Other,KVG
+train_0700,Civil & commercial,OR
+train_0702,Criminal,StGB;JStG
+train_0703,Other,WaG
+train_0705,"Tax, social & financial",DBG;StHG
+train_0706,Civil & commercial,ZGB;OR
+train_0707,Civil & commercial,OR
+train_0708,Criminal,SVG;StGB
+train_0709,Civil & commercial,OR
+train_0710,Public & administrative,URG
+train_0711,Other,PrHG
+train_0712,Public & administrative,RPG
+train_0713,Criminal,StGB;StPO
+train_0714,Civil & commercial,IPRG;ZPO
+train_0715,Other,
+train_0716,Civil & commercial,OR
+train_0717,Other,ArG
+train_0718,Criminal,StGB;StPO
+train_0719,"Tax, social & financial",UVG
+train_0721,Other,ArG
+train_0722,"Tax, social & financial",UVG;OR;SVG
+train_0724,Civil & commercial,ZGB
+train_0725,"Tax, social & financial",UVG
+train_0726,Other,USG;RPG;WaG;GSchG
+train_0727,"Tax, social & financial",UVG
+train_0728,Civil & commercial,ZGB;OR;GBV
+train_0729,Civil & commercial,IPRG
+train_0730,Civil & commercial,GBV;ZGB
+train_0731,Public & administrative,BV;VwVG
+train_0732,Civil & commercial,ZGB;GBV
+train_0733,Civil & commercial,ZGB;OR;SchKG
+train_0734,Criminal,JStG;StPO
+train_0735,Criminal,StGB;BV;AsylG
+train_0736,Other,BankG
+train_0737,"Tax, social & financial",FINMAG
+train_0738,"Tax, social & financial",VAG;FINMAG
+train_0739,Criminal,StGB
+train_0741,Other,UEG;BV
+train_0742,Civil & commercial,ZGB;OR;GBV
+train_0743,Civil & commercial,OR;ZGB
+train_0744,Procedure & enforcement,BGG
+train_0745,Civil & commercial,BGG;ZPO
+train_0746,Public & administrative,BV
+train_0747,"Tax, social & financial",DBG;StHG
+train_0748,Public & administrative,BV
+train_0749,Civil & commercial,ZGB
+train_0750,"Tax, social & financial",IVG;ATSG
+train_0753,Criminal,StPO
+train_0754,Civil & commercial,ZGB;OR;GBV
+train_0755,"Tax, social & financial",FIDLEG
+train_0757,"Tax, social & financial",DBG
+train_0758,Civil & commercial,IPRG
+train_0759,Criminal,StPO
+train_0762,Public & administrative,RPG;USG
+train_0763,Civil & commercial,ZGB;OR
+train_0764,Other,FinfraG
+train_0765,Criminal,StGB;VStrR;FINMAG
+train_0766,Civil & commercial,ZGB
+train_0767,Public & administrative,BV
+train_0769,Civil & commercial,OR
+train_0771,"Tax, social & financial",DBG;StHG
+train_0772,"Tax, social & financial",DBG;StHG
+train_0773,Other,AsylG
+train_0774,Civil & commercial,ZGB;OR
+train_0775,Public & administrative,RPG
+train_0776,Procedure & enforcement,SchKG
+train_0777,Criminal,StGB;StPO
+train_0778,Civil & commercial,OR
+train_0779,Criminal,StPO;BV
+train_0780,Civil & commercial,OR
+train_0781,Criminal,StPO;StGB
+train_0782,"Tax, social & financial",AHVG;BVG;ATSG
+train_0783,Criminal,StGB
+train_0785,Other,PrHG;PrSG
+train_0786,Civil & commercial,ZGB;ZPO
+train_0787,Civil & commercial,ZGB;OR
+train_0789,Other,SebG
+train_0790,Public & administrative,BV
+train_0791,Civil & commercial,IPRG;ZPO;LugUe
+train_0792,"Tax, social & financial",FINMAG
+train_0793,Public & administrative,BV
+train_0794,Civil & commercial,OR;ZPO
+train_0795,Public & administrative,VwVG;USG
+train_0796,Public & administrative,AIG
+train_0798,Civil & commercial,ZGB;OR
+train_0800,Public & administrative,URG
+train_0801,Civil & commercial,ZGB
+train_0802,Other,KVG
+train_0803,Criminal,StGB
+train_0804,Public & administrative,VwVG
+train_0805,Civil & commercial,ZPO;SchKG
+train_0806,Criminal,JStG;StGB
+train_0808,Civil & commercial,ZGB
+train_0809,Criminal,StGB;StPO
+train_0811,Other,HMG
+train_0814,Other,SebG
+train_0815,Other,GSchG
+train_0816,Civil & commercial,OR;ZPO
+train_0817,Public & administrative,DSG
+train_0818,"Tax, social & financial",DBG
+train_0819,Other,VStG;OR;FusG
+train_0821,Other,KVG
+train_0822,Public & administrative,VwVG;BV;RPG;EBG
+train_0823,Civil & commercial,OR
+train_0824,Civil & commercial,ZGB
+train_0825,Civil & commercial,ZGB;OR
+train_0826,Civil & commercial,OR
+train_0827,Criminal,JStG
+train_0830,Public & administrative,BV
+train_0833,"Tax, social & financial",BVG;ATSG
+train_0834,"Tax, social & financial",UVG
+train_0835,Other,VStG
+train_0836,Civil & commercial,ZGB;OR;GBV
+train_0837,Other,AIG;BV
+train_0838,Civil & commercial,OR;ZGB;ZPO
+train_0839,"Tax, social & financial",DBG;StHG
+train_0840,Civil & commercial,OR;ZPO
+train_0841,Civil & commercial,OR
+train_0842,Civil & commercial,OR
+train_0843,"Tax, social & financial",FINMAG;FIDLEG
+train_0844,Criminal,StGB;JStG;JStPO
+train_0845,Civil & commercial,OR;ZPO
+train_0846,Other,KGTG
+train_0847,Civil & commercial,ZGB;GBV;OR
+train_0848,Public & administrative,BV;AIG;BüG
+train_0849,Criminal,StGB
+train_0851,Criminal,StGB;JStG
+train_0853,Public & administrative,BV
+train_0854,Civil & commercial,ZPO
+train_0855,Civil & commercial,ZPO
+train_0856,Other,ChemG;VStrR
+train_0857,Public & administrative,RPG;NHG;ZGB;VwVG
+train_0861,Criminal,StGB;StPO
+train_0862,Other,AsylG
+train_0863,"Tax, social & financial",FINMAG
+train_0864,Public & administrative,VwVG;BV
+train_0865,Other,AsylG
+train_0866,Criminal,StGB
+train_0867,Criminal,StGB;JStG;StPO
+train_0868,Civil & commercial,ZGB;OR
+train_0869,Criminal,StGB;StPO
+train_0870,Other,AsylG
+train_0871,Civil & commercial,ZGB;OR
+train_0872,"Tax, social & financial",DBG
+train_0873,Criminal,StGB;StPO
+train_0874,Other,SVG;VVG
+train_0875,Other,OR;BankG
+train_0876,Criminal,StGB;StPO;SVG
+train_0877,Civil & commercial,ZGB;IPRG;BVG
+train_0878,Other,AVIG;BV
+train_0879,Public & administrative,URG
+train_0880,Civil & commercial,OR;ZGB
+train_0882,Public & administrative,RPG;VwVG
+train_0883,Public & administrative,RPG
+train_0884,"Tax, social & financial",BVG
+train_0886,"Tax, social & financial",ATSG;IVG
+train_0887,"Tax, social & financial",DBG
+train_0888,Other,BüG
+train_0889,Civil & commercial,ZGB;OR
+train_0890,Civil & commercial,ZPO
+train_0891,Civil & commercial,IPRG;ZGB;ZPO
+train_0892,Civil & commercial,OR;PatG
+train_0895,Civil & commercial,OR
+train_0897,Public & administrative,URG
+train_0898,Public & administrative,BV;RTVG
+train_0899,"Tax, social & financial",DBG;MWSTG
+train_0900,Other,VStG
+train_0901,Civil & commercial,OR
+train_0902,Other,
+train_0903,Public & administrative,BV;VwVG
+train_0904,Civil & commercial,ZGB;OR;GBV
+train_0905,"Tax, social & financial",DBG;StHG;MWSTG
+train_0907,Civil & commercial,ZGB
+train_0908,Civil & commercial,IPRG;ZPO
+train_0909,Civil & commercial,ZGB;GBV
+train_0910,Civil & commercial,OR;ZPO;ZGB
+train_0912,Criminal,JStG;StPO
+train_0913,Civil & commercial,OR;VVG
+train_0914,Civil & commercial,ZGB
+train_0915,Civil & commercial,ZPO;OR
+train_0916,Public & administrative,URG
+train_0917,"Tax, social & financial",DBG
+train_0919,Civil & commercial,OR
+train_0920,Civil & commercial,OR;ZGB
+train_0921,Civil & commercial,OR;ZPO;LugUe
+train_0922,Other,PrHG
+train_0923,Other,HVUV;UVG
+train_0924,Civil & commercial,OR;BankG
+train_0925,Civil & commercial,ZGB;OR
+train_0926,Civil & commercial,ZGB;GBV
+train_0928,Civil & commercial,ZGB
+train_0929,Other,BetmG
+train_0930,Public & administrative,SebG;RPG;BV;VwVG;BGG
+train_0931,Civil & commercial,IPRG;BGG
+train_0932,Civil & commercial,ZGB;OR;IPRG
+train_0933,Civil & commercial,ZGB;OR
+train_0936,"Tax, social & financial",DBG;StHG
+train_0937,Other,BüG
+train_0938,Civil & commercial,ZGB
+train_0939,Civil & commercial,IPRG;ZPO
+train_0940,Other,PatG;OR
+train_0941,Other,UWG
+train_0942,Public & administrative,BV;RPG
+train_0943,Public & administrative,BV
+train_0944,Public & administrative,BV
+train_0945,Civil & commercial,ZGB
+train_0946,"Tax, social & financial",AHVG
+train_0947,Civil & commercial,ZGB;GBV
+train_0948,Other,AVIG
+train_0949,Civil & commercial,OR;ZGB
+train_0950,"Tax, social & financial",DBG;StHG
+train_0951,Other,KG
+train_0953,Civil & commercial,ZGB;GBV
+train_0954,Other,OR;MSchG
+train_0955,Public & administrative,BV
+train_0956,"Tax, social & financial",DBG;StHG
+train_0958,"Tax, social & financial",FINMAG;VAG
+train_0959,Criminal,StGB;JStG
+train_0960,Criminal,StGB;BetmG
+train_0961,Public & administrative,AIG;BV
+train_0963,Criminal,StGB;StPO
+train_0965,"Tax, social & financial",DBG;StHG
+train_0966,Civil & commercial,IPRG
+train_0967,Public & administrative,URG
+train_0968,Civil & commercial,OR
+train_0969,Criminal,StGB;StPO
+train_0971,Other,EOG;ATSG
+train_0973,Other,FINMAG;BankG
+train_0974,Civil & commercial,OR;ZGB;ZPO;SchKG
+train_0975,Civil & commercial,ZGB;OR
+train_0976,Public & administrative,RTVG;BV
+train_0977,Public & administrative,SVG
+train_0979,Other,VVG;SVG
+train_0980,Civil & commercial,ZGB;OR
+train_0981,Criminal,StGB;StPO
+train_0982,Public & administrative,EleG;NHG;RPG;VwVG
+train_0983,Civil & commercial,OR;DBG
+train_0984,Civil & commercial,ZGB;OR;ZPO;IPRG
+train_0985,Civil & commercial,OR;ZPO;ZGB
+train_0987,Civil & commercial,IPRG
+train_0988,Criminal,StGB;BV;AIG
+train_0990,Public & administrative,USG;NHG;VwVG
+train_0991,Civil & commercial,OR
+train_0994,Procedure & enforcement,SchKG;ZGB
+train_0995,"Tax, social & financial",VStrR;DBG;StHG
+train_0996,Criminal,StGB
+train_0997,Public & administrative,URG
+train_0999,Criminal,StGB;StPO;IRSG
+train_1000,"Tax, social & financial",FINMAG;FIDLEG
+train_1001,Criminal,JStG
+train_1003,Criminal,StGB;StPO;BV
+train_1004,Other,IRSG
+train_1005,Public & administrative,RPG
+train_1006,Public & administrative,GSchG;NHG;VwVG
+train_1007,Civil & commercial,ZGB;OR
+train_1008,Public & administrative,BV;EMRK
+train_1009,Other,VStG
+train_1010,Other,BankG
+train_1011,Civil & commercial,OR;IPRG;ZPO
+train_1012,Civil & commercial,ZGB
+train_1014,"Tax, social & financial",DBG;StHG;BV
+train_1015,Other,AsylG
+train_1016,Other,OR;KG
+train_1017,Other,VVG;SVG
+train_1018,"Tax, social & financial",ATSG;BV
+train_1019,"Tax, social & financial",DBG;StHG
+train_1020,"Tax, social & financial",ATSG
+train_1021,Civil & commercial,OR
+train_1022,Civil & commercial,OR
+train_1023,Civil & commercial,ZGB
+train_1024,Public & administrative,DSG
+train_1025,Civil & commercial,OR
+train_1026,Other,SebG
+train_1027,Other,EBG
+train_1028,"Tax, social & financial",DBG;StHG
+train_1030,Civil & commercial,ZGB
+train_1031,Civil & commercial,OR;ZGB
+train_1032,Public & administrative,StGB;AIG;BV
+train_1033,Civil & commercial,OR;ZPO;BGFA
+train_1034,Public & administrative,BV
+train_1035,"Tax, social & financial",DBG;StHG;VStG
+train_1036,Criminal,StGB
+train_1037,Civil & commercial,ZPO;ZGB;OR
+train_1038,Civil & commercial,ZGB;OR;URG;DSG
+train_1039,Civil & commercial,ZGB;OR
+train_1040,Civil & commercial,ZGB;GBV;OR
+train_1041,"Tax, social & financial",FINMAG
+train_1042,Criminal,StGB;StPO;JStG
+train_1043,Criminal,IRSG;StPO
+train_1044,Civil & commercial,OR;ZPO
+train_1045,Civil & commercial,ZGB;OR
+train_1046,Public & administrative,URG
+train_1047,Civil & commercial,OR;ZGB;ATSG
+train_1048,Criminal,StPO
+train_1049,"Tax, social & financial",DBG;StHG
+train_1050,Civil & commercial,IPRG;ZGB
+train_1051,Other,BüG
+train_1052,Public & administrative,BV
+train_1053,Civil & commercial,ZGB;IPRG
+train_1054,Civil & commercial,ZGB;OR
+train_1055,Procedure & enforcement,SchKG;BGG
+train_1056,Criminal,StPO;StGB
+train_1057,Criminal,StGB
+train_1058,Civil & commercial,OR
+train_1059,Public & administrative,StPO;BV;VwVG
+train_1061,Criminal,StGB;StPO
+train_1062,Civil & commercial,ZGB;OR
+train_1063,Criminal,StGB;StPO;SVG
+train_1065,Civil & commercial,ZPO;OR
+train_1067,"Tax, social & financial",FINMAG;VwVG
+train_1068,Public & administrative,RPG
+train_1071,"Tax, social & financial",DBG;StHG
+train_1072,Procedure & enforcement,SchKG
+train_1073,Civil & commercial,ZGB;OR;StGB
+train_1075,Civil & commercial,ZGB;IPRG
+train_1076,Criminal,StGB
+train_1077,Civil & commercial,IPRG;ZGB
+train_1078,Public & administrative,URG
+train_1079,Other,KVG
+train_1080,"Tax, social & financial",BVG
+train_1081,Civil & commercial,ZGB;DSG
+train_1082,"Tax, social & financial",UVG
+train_1083,Procedure & enforcement,SchKG
+train_1084,"Tax, social & financial",DBG;StHG
+train_1085,Public & administrative,RPG
+train_1086,Civil & commercial,ZGB;OR
+train_1087,Criminal,StGB
+train_1088,Criminal,StPO;JStPO
+train_1089,Public & administrative,BV;VwVG
+train_1090,Other,AsylG
+train_1092,Criminal,StGB
+train_1093,"Tax, social & financial",FINMAG;FIDLEG
+train_1094,"Tax, social & financial",ATSG
+train_1095,Public & administrative,SebG;RPG;VwVG
+train_1096,Criminal,JStG;JStPO
+train_1097,"Tax, social & financial",DBG
+train_1099,Public & administrative,USG;NHG;RPG;SVG
+train_1100,Procedure & enforcement,SchKG;ZGB
+train_1101,"Tax, social & financial",FINMAG
+train_1102,Civil & commercial,ZGB
+train_1103,"Tax, social & financial",UVG;ATSG
+train_1104,"Tax, social & financial",BVG
+train_1105,Criminal,StGB
+train_1106,"Tax, social & financial",DBG;StHG;VStG
+train_1107,Criminal,JStG;StPO
+train_1108,Other,Other
+train_1109,Civil & commercial,OR;ZGB
+train_1111,Civil & commercial,ZGB;ZPO
+train_1112,Civil & commercial,OR;DBG
+train_1113,"Tax, social & financial",UVG
+train_1114,Public & administrative,USG
+train_1115,Public & administrative,DSG
+train_1116,Civil & commercial,OR
+train_1117,Other,ZNotG
+train_1118,Civil & commercial,OR;ZGB;ZPO
+train_1119,Civil & commercial,OR
+train_1120,Public & administrative,USG;RPG
+train_1121,Civil & commercial,IPRG;OR;ZPO
+train_1123,Civil & commercial,OR;ZPO
+train_1126,Civil & commercial,OR;MSchG
+train_1127,Criminal,JStG
+train_1129,Civil & commercial,OR
+train_1130,Public & administrative,USG;RPG
+train_1131,Criminal,StGB;StPO;JStG
+train_1132,Criminal,StGB;StPO
+train_1133,Civil & commercial,ZGB;GBV
+train_1134,Civil & commercial,ZGB;OR;ZPO
+train_1135,Other,BüG
+train_1136,Public & administrative,AIG;BV
+train_1137,Criminal,StGB;SVG
+train_1138,Other,ArG
+train_1139,Civil & commercial,ZGB;GBV;GeoIG
+val_001,Criminal,StPO;BV
+val_002,"Tax, social & financial",IVG
+val_003,Criminal,StPO;StGB
+val_004,Civil & commercial,ZGB
+val_005,Civil & commercial,ZGB;ZPO
+val_006,Civil & commercial,OR
+val_007,Civil & commercial,ZGB;OR
+val_008,Criminal,StGB;StPO
+val_009,Procedure & enforcement,ZGB;ZPO;SchKG
+val_010,Civil & commercial,OR;ZPO
