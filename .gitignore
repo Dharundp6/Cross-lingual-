@@ -3,8 +3,8 @@
 kaggle.json
 __pycache__/
 *.pyc
-Data/
 _models/
 *.npy
 *.pkl
 *.parquet
+Data/court_considerations.csv

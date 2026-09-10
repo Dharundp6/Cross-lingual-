@@ -14,7 +14,7 @@ Code and recorded results for the MSc dissertation *Cross-Lingual Legal Citation
 
 ## Data and models
 
-The competition data (`laws_de.csv`, court decisions, `train.csv`) is not redistributed here. Model checkpoints, corpus embeddings and precomputed indices are on Hugging Face:
+`Data/` holds the competition files that fit on GitHub: `train.csv`, `val.csv`, `test.csv`, `sample_submission.csv` and the statute corpus `laws_de.csv` (175,933 paragraphs). The court corpus `court_considerations.csv` is 2.3 GB and exceeds GitHub's file limit; it is needed only by the court-side experiments and is not required for any statute-side result. Model checkpoints, corpus embeddings and precomputed indices are on Hugging Face:
 
 - `Dharun72/llm-agentic-precomputed-v3` — statute embeddings, BM25 indices, query embeddings
 - `Dharun72/swiss-legal-checkpoints` — fine-tuned encoder and cross-encoder
